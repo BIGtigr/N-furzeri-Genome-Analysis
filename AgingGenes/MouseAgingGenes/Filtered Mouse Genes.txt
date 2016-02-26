@@ -1,0 +1,104 @@
+GenAge ID	name	symbol	organism	functions	Entrez gene id	avg lifespan change (max obsv)	lifespan effect	longevity influence	observations
+6	adenylate cyclase 5	Adcy5	Mus musculus	Synthesis of cAMP	224129	30	Increase	Anti-Longevity	anti;;;5;15998808
+13	Rho GTPase activating protein 1	Arhgap1	Mus musculus	Regulation of actin cytoskeleton organization, polarity, and growth	228359		Decrease	Pro-Longevity	anti;20.0;;12;17608836
+15	aryl hydrocarbon receptor nuclear translocator-like	Arntl	Mus musculus	Appears to be involved in circadian rhythyms	11865		Decrease	Pro-Longevity	pro;;;14;18006689
+24	Ataxia telangiectasia mutated homolog (human)	Atm	Mus musculus	DNA repair and cell cycle control	11920		Decrease	Pro-Longevity	pro;;;23;17912023|pro;;;23;17912023|pro;;;23;17912023|pro;;;23;17912023
+30	Ataxia telangiectasia and Rad3 related	Atr	Mus musculus	DNA repair and cell cycle control	245000		Decrease	Pro-Longevity	pro;;;29;12242224|pro;;;29;12242224
+40	Bcl2-associated X protein	Bax	Mus musculus	Apoptosis	12028		Increase	Unannotated	pro;45.0;35.0;39;15905404
+48	Breast cancer 1	Brca1	Mus musculus	Maintenance of genomic stability	12189		Decrease	Pro-Longevity	pro;25.0;;47;17900898|pro;25.0;;47;17900898
+51	budding uninhibited by benzimidazoles 3 homolog (S. cerevisiae)	Bub3	Mus musculus	Kinase involved in the spindle checkpoint function	12237	12	Decrease	Pro-Longevity	pro;;;50;15208629
+90	caspase 2	Casp2	Mus musculus	Apoptosis	12366		Decrease	Pro-Longevity	pro;;30.0;89;17435236
+92	Catalase	Cat	Mus musculus	Protects cells from hydrogen peroxide	12359	21	Increase	Pro-Longevity	pro;33.0;;91;8108730|pro;33.0;;91;8108730
+93	caveolin, caveolae protein 1	Cav1	Mus musculus	Component of caveolae membranes in nonmuscle cells	12389	50	Decrease	Pro-Longevity	pro;20.0;;92;15879174
+109	Cyclin-dependent kinase inhibitor 1A	Cdkn1a	Mus musculus	Cell cycle	12575		Increase	Anti-Longevity	pro;33.0;;108;17368005
+110	CCAAT/enhancer binding protein (C/EBP), alpha	Cebpa	Mus musculus	Transcription factor involved in fat metabolism	12606		Increase	Unannotated	anti;;;109;17143283
+111	CCAAT/enhancer binding protein (C/EBP), beta	Cebpb	Mus musculus	Transcription factor involved in fat metabolism	12608		Increase	Unannotated	;;;110;15289464
+122	CHK2 checkpoint homolog (S. pombe)	Chek2	Mus musculus	Cell cycle checkpoint regulator	50883		Decrease	Pro-Longevity	anti;100.0;;121;10617200
+136	demethyl-Q 7	Coq7	Mus musculus	Ubiquinone (coenzyme Q, CoQ) biosynthesis	12850	30	Increase	Anti-Longevity	anti;;;135;15998808
+209	Epidermal growth factor-containing fibulin-like extracellular matrix protein 1	Efemp1	Mus musculus	Extracellular matrix (ECM) protein of unknown function	216616	20	Decrease	Pro-Longevity	pro;41.0;;207;2508089
+222	Excision repair cross-complementing rodent repair deficiency, complementation group 2	Ercc2	Mus musculus	Helicase involved in DNA repair and condensation	13871		Decrease	Pro-Longevity	anti;20.0;;220;17608836
+223	Excision repair cross-complementing rodent repair deficiency, complementation group 4	Ercc4	Mus musculus	Involved in DNA repair	50505		Decrease	Pro-Longevity	pro;;;221;11950998
+282	Fibroblast growth factor 23	Fgf23	Mus musculus		64654		Decrease	Pro-Longevity	pro;;;279;17392428|pro;;;279;17392428
+285	Forkhead box M1	Foxm1	Mus musculus	Transcriptional regulator that is important in development and cell proliferation	14235		Decrease	Pro-Longevity	anti;50.0;;282;10230397
+290	frataxin	Fxn	Mus musculus	Regulation of mitochondrial iron transport and respiration	14297		Decrease	Pro-Longevity	pro;9.0;;287;12620118
+301	Growth hormone	Gh	Mus musculus	Growth control	14599		Decrease	Anti-Longevity	anti;57.0;;298;17608836
+302	Growth hormone receptor	Ghr	Mus musculus	Signal transduction of growth hormone	14600	50	Increase	Anti-Longevity	anti;;;299;14583653
+303	Growth hormone releasing hormone receptor	Ghrhr	Mus musculus		14602	20	Increase	Anti-Longevity	anti;50.0;;300;12933651
+324	Glutathione peroxidase 4	Gpx4	Mus musculus	Detoxification of oxidative damage to membrane lipids	625249	7	Increase	Anti-Longevity	anti;50.0;;321;11000115
+334	Proliferation associated SNF-2-like gene	Hells	Mus musculus	Involved in global genome methylation	15201		Decrease	Pro-Longevity	;30.0;;331;16023114
+355	5-hydroxytryptamine (serotonin) receptor 1B	Htr1b	Mus musculus	5-hydroxytryptamine (serotonin) receptor 1B	15551		Decrease	Pro-Longevity	anti;19.0;;352;17411345
+364	Insulin-like growth factor 1	Igf1	Mus musculus	Hormone that stimulates growth	16000	23	Increase	Pro-Longevity	anti;50.0;;361;16968739
+365	Insulin-like growth factor 1 receptor	Igf1r	Mus musculus	IGF1 receptor that mediates growth	16001	40	Increase	Anti-Longevity	pro;23.0;0.0;362;17973971|pro;23.0;0.0;362;17973971
+373	Insulin receptor	Insr	Mus musculus	Signal tranduction of insulin	16337	33.29999924	Increase	Anti-Longevity	anti;;;370;12845331|anti;;;370;12845331
+377	insulin receptor substrate 1	Irs1	Mus musculus	Cytoplasmic signalling molecule that mediates effects of insulin, insulin-like growth factor 1, and other cytokines	16367	18	Increase	Anti-Longevity	anti;28.0;;374;17411345
+378	insulin receptor substrate 2	Irs2	Mus musculus	Cytoplasmic signalling molecule that mediates effects of insulin, insulin-like growth factor 1, and other cytokines	384783	18	Increase	Anti-Longevity	anti;18.0;;375;17928362
+415	lamin A	Lmna	Mus musculus	LMAN encodes components of the lamina	16905		Decrease	Pro-Longevity	pro;;;411;16269543
+427	minichromosome maintenance deficient 2 mitotin (S. cerevisiae)	Mcm2	Mus musculus	Chromatin modification	17216		Decrease	Pro-Longevity	anti;15.0;;423;17411345
+436	mannoside acetylglucosaminyltransferase 5	Mgat5	Mus musculus	Mannoside acetylglucosaminyltransferase 5	107895		Decrease	Pro-Longevity	;;;432;9716135
+444	mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)	Msh2	Mus musculus	DNA mismach repair	17685		Decrease	Pro-Longevity	anti;23.0;;440;17608836
+446	Methionine sulfoxide reductase A	Msra	Mus musculus	MSRA repairs damage resulting from oxidative stress	110265		Decrease	Pro-Longevity	pro;70.0;;442;11867705|pro;70.0;;442;11867705
+458	nei endonuclease VIII-like 1 (E. coli)	Neil1	Mus musculus	Base excision repair of ring-fragmented purines and some saturated pyrimidines	72774		Decrease	Pro-Longevity	anti;;;454;16436509
+466	nitric oxide synthase 3, endothelial cell	Nos3	Mus musculus		18127		Decrease	Pro-Longevity	pro;18.0;;462;17934462
+492	Pregnancy-associated plasma protein A	Pappa	Mus musculus	Could be involved in local cell proliferative processes	18491	30	Increase	Anti-Longevity	anti;;15.0;488;17266680|anti;;15.0;488;17266680
+497	phosphoenolpyruvate carboxykinase 1, cytosolic	Pck1	Mus musculus		18534		Increase	Pro-Longevity	pro;;;493;17909035
+506	POU domain, class 1, transcription factor 1	Pou1f1	Mus musculus	Transcription factor that regulates pituitary development	18736	40	Increase	Anti-Longevity	fitness;;;502;9259555
+509	Plasminogen activator, urokinase	Plau	Mus musculus	A protease that converts plasminogen to plasmin	18792	20	Increase	Pro-Longevity	;;;504;16822282
+512	Polymerase (DNA directed), gamma	Polg	Mus musculus	Involved in mitochondrial DNA replication and repair	18975		Decrease	Pro-Longevity	anti;45.0;;507;17608836|anti;45.0;;507;17608836
+515	protein phosphatase 1D magnesium-dependent, delta isoform	Ppm1d	Mus musculus	May contribute to oncogenesis through functional inactivation of p53	53892		Decrease	Pro-Longevity	pro;14.0;;510;11868902
+518	Peroxiredoxin 1	Prdx1	Mus musculus	Involved in redox regulation	18477		Decrease	Pro-Longevity	pro;;;513;16673436
+519	Prophet of Pit1, paired-like homeodomain transcription factor	Prop1	Mus musculus	Transcription factor involved in hormonal regulation and development	19127		Increase	Anti-Longevity	pro;;;514;12891360
+537	RAE1 RNA export 1 homolog (S. pombe)	Rae1	Mus musculus	RNA export	66679		Decrease	Pro-Longevity	fitness;50.0;;532;17710147
+601	SHC (Src homology 2 domain containing) transforming protein 1	Shc1	Mus musculus	Regulation of intra-cellular redox levels, signal transduction, and apoptosis	20416	30	Increase	Anti-Longevity	fitness;;;596;9271578
+615	solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 4	Slc25a4	Mus musculus	Involved in the exchange of ADP and ATP across the mitochondrial inner membrane	11739		Decrease	Pro-Longevity	pro;;;609;17392428
+633	STIP1 homology and U-Box containing protein 1	Stub1	Mus musculus	Involved in proteasomal degradation	56424		Decrease	Pro-Longevity	pro;50.0;;627;15126388
+637	surfeit gene 1	Surf1	Mus musculus	A putative COX assembly factor	20930	20	Increase	Anti-Longevity	anti;;30.0;631;16172499
+671	telomeric repeat binding factor 2	Terf2	Mus musculus	TRF2 is a telomere-binding protein that has a role in telomere protection	21750		Decrease	Anti-Longevity	anti;13.0;;665;17608836
+672	Telomerase reverse transcriptase	Tert	Mus musculus	Telomere elongation	21752		Increase	Pro-Longevity	anti;;;666;16142233|anti;;;666;16142233|anti;;;666;16142233
+677	Topoisomerase (DNA) III beta	Top3b	Mus musculus	Involved in the supercoiling of the DNA.	21976		Decrease	Pro-Longevity	pro;19.0;;671;18006689
+682	Transformation related protein 53	Trp53	Mus musculus	Tumour supressor involved in cell cycle regulation, apoptosis, and DNA repair	22059		Decrease	Pro-Longevity	anti;25.0;;676;11000115|anti;25.0;;676;11000115|anti;25.0;;676;11000115|anti;25.0;;676;11000115|anti;25.0;;676;11000115
+683	Transformation related protein 63	Trp63	Mus musculus	Proliferation, differentiation, and cell fate	22061	70	Decrease	Pro-Longevity	pro;;;677;11780111|pro;;;677;11780111
+691	Thioredoxin 1	Txn1	Mus musculus	TXN plays a role in regulating cellular redox status and perhaps oxidative stress	22166	35	Increase	Pro-Longevity	anti;89.0;;685;17608836|anti;89.0;;685;17608836
+696	uncoupling protein 2 (mitochondrial, proton carrier)	Ucp2	Mus musculus	Mitochondrial uncoupling proteins create proton leaks across the inner mitochondrial membrane to uncouple oxidative phosphorylation from ATP synthesis	22228	20	Increase	Pro-Longevity	pro;30.0;;690;16054055
+734	Xeroderma pigmentosum, complementation group A	Xpa	Mus musculus	Nucleotide-excision repair	22590		Decrease	Pro-Longevity	pro;9.0;;728;18006689
+735	X-ray repair complementing defective repair in Chinese hamster cells 5	Xrcc5	Mus musculus	Double strand break-repair protein	22596	40	Decrease	Pro-Longevity	pro;;;729;11950998|pro;;;729;11950998
+736	X-ray repair complementing defective repair in Chinese hamster cells 6	Xrcc6	Mus musculus	The double strand break-repair protein	14375		Decrease	Pro-Longevity	pro;;;730;10485901
+789	zinc metallopeptidase, STE24 homolog (S. cerevisiae)	Zmpste24	Mus musculus	Metalloproteinase involved in the maturation of lamin A (Lmna)	230709		Decrease	Pro-Longevity	anti;;;783;15998808
+811	Angiotensin II receptor, type 1a	Agtr1a	Mus musculus		11607	26	Increase	Anti-Longevity	pro;;;784;16079796
+812	Apolipoprotein E	Apoe	Mus musculus		11816		Decrease	Pro-Longevity	anti;26.0;24.0;808;19197138
+814	Circadian locomotor output cycles kaput	Clock	Mus musculus		12753	15	Decrease	Pro-Longevity	pro;38.5;15.0;810;19451219
+815	Dystrophin, muscular dystrophy	Dmd	Mus musculus		13405	18	Decrease	Pro-Longevity	pro;15.0;20.0;811;21149897
+816	Eukaryotic translation elongation factor 1 epsilon 1	Eef1e1	Mus musculus		66143	50	Decrease	Anti-Longevity	pro;18.0;22.0;812;17360850
+817	Epidermal growth factor receptor pathway substrate 8	Eps8	Mus musculus		13860	37	Increase	Anti-Longevity	anti;50.0;;813;20726853
+818	Fibronectin 1	Fn1	Mus musculus		14268		Decrease	Pro-Longevity	anti;37.0;9.0;814;20209148
+819	heterogeneous nuclear ribonucleoprotein D	Hnrnpd	Mus musculus		11991		Decrease	Pro-Longevity	pro;;;815;12847088
+820	Huntingtin	Htt	Mus musculus		15194	18	Increase	Anti-Longevity	pro;;;816;22633954
+821	Jun proto-oncogene related gene d	Jund	Mus musculus		16478	17	Decrease	Pro-Longevity	anti;18.0;17.0;817;20140187
+822	Potassium voltage-gated channel, shaker-related subfamily, member 3	Kcna3	Mus musculus		16491	22	Increase	Anti-Longevity	pro;17.0;14.0;818;18249171
+824	Sirtuin 7 (silent mating type information regulation 2, homolog) 7 (S. cerevisiae)	Sirt7	Mus musculus		209011	59	Decrease	Pro-Longevity	pro;11.0;;820;19997628
+825	Solute carrier family 13 (sodium/sulfate symporters), member 1	Slc13a1	Mus musculus		55961	25	Increase	Anti-Longevity	pro;59.0;55.0;821;18239138
+826	Suppressor of cytokine signaling 2	Socs2	Mus musculus		216233	35	Decrease	Pro-Longevity	anti;25.0;25.0;822;21651971
+827	Superoxide dismutase 2, mitochondrial	Sod2	Mus musculus		20656	43	Decrease	Pro-Longevity	pro;35.0;14.0;823;19424848
+828	Topoisomerase I binding, arginine/serine-rich 	Topors	Mus musculus		106021	42	Decrease	Pro-Longevity	pro;43.0;14.0;824;21108731
+829	Tripeptidyl peptidase II	Tpp2	Mus musculus		22019		Decrease	Pro-Longevity	pro;42.0;42.0;825;20429939
+830	Transformation related protein 53 binding protein 1	Trp53bp1	Mus musculus		27223		Increase	Anti-Longevity	pro;;;826;18362329
+1010	ADP-ribosyltransferase (NAD+; poly (ADP-ribose) polymerase)	Parp1	Mus musculus		11545	25	Decrease	Pro-Longevity	anti;40.0;;1006;20688098
+1737	ribosomal protein S6 kinase, polypeptide 1	Rps6kb1	Mus musculus		72508	19	Increase	Anti-Longevity	anti;24.0;;2071;20550517
+1738	protein kinase, cAMP dependent regulatory, type II beta	Prkar2b	Mus musculus		19088	14	Increase	Anti-Longevity	anti;19.0;;2154;19797661
+1794	eukaryotic translation initiation factor 5A2	Eif5a2	Mus musculus		208691		Decrease	Anti-Longevity	pro;33.5;;2224;23415228
+1796	macrophage migration inhibitory factor	Mif	Mus musculus		17319	16	Increase	Anti-Longevity	pro;;;2226;21262768
+1797	diacylglycerol O-acyltransferase 1	Dgat1	Mus musculus		13350	23	Increase	Anti-Longevity	anti;16.0;;2227;20219983
+1798	glutathione S-transferase, alpha 4	Gsta4	Mus musculus		14860	13	Increase	Anti-Longevity	anti;23.0;8.0;2228;22291164
+1799	metallothionein 1	Mt1	Mus musculus		17748	14	Increase	Pro-Longevity	anti;13.0;;2229;19880816
+1800	fibroblast growth factor 21	Fgf21	Mus musculus		56636	36	Increase	Pro-Longevity	pro;14.0;;2230;16585059
+1801	transformation related protein 73	Trp73	Mus musculus		22062	31	Decrease	Pro-Longevity	pro;36.0;16.0;2231;23066506
+1802	HtrA serine peptidase 2	Htra2	Mus musculus		64704		Decrease	Pro-Longevity	pro;31.0;;2232;22987635
+1807	glycogen synthase kinase 3 alpha	Gsk3a	Mus musculus		606496		Decrease	Pro-Longevity	anti;41.0;;2237;23698443
+1808	nudix (nucleoside diphosphate linked moiety X)-type motif 1	NUDT1	Mus musculus		4521	16	Increase	Pro-Longevity	pro;;;2238;23549082
+1809	mechanistic target of rapamycin (serine/threonine kinase)	Mtor	Mus musculus		56717	20	Increase	Anti-Longevity	pro;16.0;22.0;2239;23648059
+1810	thymoma viral proto-oncogene 1	Akt1	Mus musculus		11651	11.5	Increase	Anti-Longevity	anti;20.0;;2240;23994476
+1811	inhibitor of kappaB kinase beta	Ikbkb	Mus musculus		16150	23	Increase	Anti-Longevity	anti;11.5;;2241;23935948
+1812	sequestosome 1	Sqstm1	Mus musculus		18412	34	Decrease	Pro-Longevity	anti;23.0;;2242;23636330
+1813	cyclin-dependent kinase 7	Cdk7	Mus musculus		12572		Decrease	Pro-Longevity	pro;34.0;;2243;22222206
+1814	granulin	Grn	Mus musculus		14824		Decrease	Pro-Longevity	pro;;;2244;22505032
+1815	nuclear receptor co-repressor 2	Ncor2	Mus musculus		20602	50	Decrease	Pro-Longevity	pro;;;2245;22733568
+1848	growth hormone releasing hormone	Ghrh	Mus musculus		14601	46	Increase	Anti-Longevity	anti;38.0;;2293;22040003

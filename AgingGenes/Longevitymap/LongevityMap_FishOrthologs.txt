@@ -1,0 +1,554 @@
+maker-GapFilledScaffold_191-augustus-gene-1.40	ULK1	ULK1 (2 of 2)
+augustus_masked-GapFilledScaffold_3245-processed-gene-0.10	H2AFX	H2AFX
+maker-GapFilledScaffold_4334-snap-gene-0.27	ULK1	ULK1 (1 of 2)
+maker-GapFilledScaffold_12656-snap-gene-0.2	LY6G6F	LY6G6F
+augustus_masked-GapFilledScaffold_1614-processed-gene-0.10	RB1CC1	RB1CC1
+augustus_masked-GapFilledScaffold_3461-processed-gene-0.12	NBEA	NBEA (5 of 5)
+maker-GapFilledScaffold_2381-snap-gene-0.19	SYNE1	SYNE1A (1 of 3)
+augustus_masked-GapFilledScaffold_4574-processed-gene-0.2	GSG1L	GSG1L (3 of 8)
+maker-GapFilledScaffold_1355-augustus-gene-1.22	FAM19A5	FAM19A5 (2 of 4)
+augustus_masked-GapFilledScaffold_10703-processed-gene-0.4	RYR3	RYR3 (4 of 9)
+maker-GapFilledScaffold_1554-snap-gene-0.31	EGFR	EGFR (1 of 2)
+snap_masked-GapFilledScaffold_369-processed-gene-1.14	AGTR1	AGTR1B
+maker-GapFilledScaffold_7714-augustus-gene-0.9	ASIC2	ASIC2 (3 of 6)
+augustus_masked-GapFilledScaffold_7274-processed-gene-0.5	CSMD3	CSMD3 (10 of 22)
+maker-GapFilledScaffold_92-augustus-gene-2.44	RYR3	RYR3 (5 of 9)
+maker-GapFilledScaffold_7236-augustus-gene-0.8	NCAM2	NCAM2 (1 of 2)
+maker-GapFilledScaffold_708-snap-gene-1.40	PLEKHA7	PLEKHA7 (2 of 2)
+maker-GapFilledScaffold_17428-snap-gene-0.4	ACE	ACE (4 of 8)
+maker-GapFilledScaffold_2050-snap-gene-0.41	EPB41L4B	EPB41L4B (2 of 2)
+maker-GapFilledScaffold_1671-augustus-gene-0.28	FOXO4	FOXO4
+maker-GapFilledScaffold_8-augustus-gene-3.57	POMT2	POMT2
+augustus_masked-GapFilledScaffold_566-processed-gene-1.22	BTBD9	BTBD9
+augustus_masked-GapFilledScaffold_118-processed-gene-2.15	FSHR	FSHR
+maker-GapFilledScaffold_297-augustus-gene-1.36	EIF4B	EIF4BB
+maker-GapFilledScaffold_375-augustus-gene-0.16	XKR6	XRG5
+maker-GapFilledScaffold_1408-snap-gene-0.20	NOS1	NOS1
+maker-GapFilledScaffold_2829-snap-gene-0.24	HPCAL1	HPCA
+maker-GapFilledScaffold_2081-snap-gene-0.37	CDK6	CDK6
+maker-GapFilledScaffold_1032-snap-gene-0.41	VPS13D	VPS13D (1 of 6)
+maker-GapFilledScaffold_3562-augustus-gene-0.31	APOE	APOEB
+maker-GapFilledScaffold_3076-snap-gene-0.16	LRP1B	LRP1BB (6 of 6)
+maker-GapFilledScaffold_1856-snap-gene-0.39	ADRB2	ADRB2
+maker-GapFilledScaffold_3726-augustus-gene-0.29	TSC2	TSC2 (1 of 2)
+augustus_masked-GapFilledScaffold_1308-processed-gene-0.22	PIK3CA	PIK3CA (3 of 4)
+augustus_masked-GapFilledScaffold_7134-processed-gene-0.1	ADRB2	ADRB2A
+augustus_masked-GapFilledScaffold_8677-processed-gene-0.0	SLC9A3R2	SLC9A3R2 (1 of 3)
+augustus_masked-GapFilledScaffold_7576-processed-gene-0.8	CSMD3	CSMD3 (6 of 22)
+maker-GapFilledScaffold_1032-snap-gene-0.42	VPS13D	VPS13D (6 of 6)
+maker-GapFilledScaffold_3562-augustus-gene-0.32	APOA4	APOA4 (3 of 3)
+augustus_masked-GapFilledScaffold_1032-processed-gene-0.9	VPS13D	VPS13D (5 of 6)
+maker-GapFilledScaffold_2216-augustus-gene-0.19	LRP1B	LRP1BB (1 of 6)
+maker-GapFilledScaffold_2000-augustus-gene-0.38	GH1	GH1
+maker-GapFilledScaffold_7140-snap-gene-0.14	TRIM25	TRIM25 (7 of 8)
+maker-GapFilledScaffold_969-snap-gene-1.35	SLC25A21	SLC25A21
+maker-GapFilledScaffold_8992-snap-gene-0.6	GSG1L	SI:CH211-138K19.2 (2 of 2)
+maker-GapFilledScaffold_976-snap-gene-0.22	PLEKHA7	PLEKHA7 (1 of 2)
+augustus_masked-GapFilledScaffold_1362-processed-gene-0.12	XKR6	XKR6 (1 of 4)
+augustus_masked-GapFilledScaffold_3562-processed-gene-0.6	APOA4	APOA4 (2 of 3)
+maker-GapFilledScaffold_2632-augustus-gene-0.30	ZBTB20	ZBTB20 (2 of 2)
+maker-GapFilledScaffold_6002-snap-gene-0.18	CHIT1	CHIA.3
+augustus_masked-GapFilledScaffold_12305-processed-gene-0.4	ACE	ACE (5 of 8)
+maker-GapFilledScaffold_113-augustus-gene-2.33	C9ORF3	C9ORF3 (2 of 2)
+maker-GapFilledScaffold_176-snap-gene-3.70	GSG1L	GSG1L (2 of 8)
+maker-GapFilledScaffold_9756-snap-gene-0.8	CSMD3	CSMD3 (5 of 22)
+maker-GapFilledScaffold_742-augustus-gene-0.53	PCSK1	PCSK1
+maker-GapFilledScaffold_344-augustus-gene-1.38	TRIM25	MID2 (2 of 2)
+augustus_masked-GapFilledScaffold_7299-processed-gene-0.3	BRE	BRE (1 of 2)
+maker-GapFilledScaffold_744-snap-gene-0.57	CGNL1	CGNL1 (2 of 3)
+maker-GapFilledScaffold_462-snap-gene-1.73	LARGE	LARGE
+maker-GapFilledScaffold_184-augustus-gene-1.27	CTNND2	CTNND2B (2 of 3)
+maker-GapFilledScaffold_23-snap-gene-2.35	NCAM2	NCAM2 (2 of 2)
+maker-GapFilledScaffold_742-snap-gene-0.62	ELL2	ELL2
+augustus_masked-GapFilledScaffold_3014-processed-gene-0.12	AIF1	AIF1
+maker-GapFilledScaffold_184-snap-gene-1.31	CTNND2	CTNND2 (2 of 3)
+maker-GapFilledScaffold_339-snap-gene-4.31	CADM1	CADM1B (2 of 2)
+maker-GapFilledScaffold_6842-augustus-gene-0.9	PITPNM3	PITPNM3 (3 of 3)
+maker-GapFilledScaffold_184-snap-gene-1.32	CTNND2	CTNND2 (1 of 3)
+maker-GapFilledScaffold_5244-snap-gene-0.14	PICALM	SI:CH211-200P22.4 (2 of 2)
+maker-GapFilledScaffold_464-snap-gene-0.17	LARGE	GYLTL1B
+maker-GapFilledScaffold_228-snap-gene-1.22	YTHDF2	YTHDF3
+maker-GapFilledScaffold_624-augustus-gene-0.21	HPCAL1	NCALDB
+maker-GapFilledScaffold_3987-snap-gene-2.59	PIK3CA	PIK3CA (2 of 4)
+maker-GapFilledScaffold_10973-snap-gene-0.12	NDUFA11	NDUFA11
+maker-GapFilledScaffold_3471-augustus-gene-0.28	ITGB3	ITGB3A (1 of 2)
+maker-GapFilledScaffold_2869-augustus-gene-0.14	IGF2	IGF2
+maker-GapFilledScaffold_2798-snap-gene-0.20	LMX1B	LMX1B
+maker-GapFilledScaffold_4775-augustus-gene-0.19	GSR	GSR
+maker-GapFilledScaffold_5576-augustus-gene-0.9	ITGA1	ITGA1 (1 of 2)
+maker-GapFilledScaffold_2869-augustus-gene-0.13	TH	TH
+maker-GapFilledScaffold_6825-augustus-gene-0.9	NBEA	NBEAA (5 of 5)
+maker-GapFilledScaffold_8738-snap-gene-0.8	SLC9A3R2	PDZD3A
+maker-GapFilledScaffold_838-snap-gene-0.30	CDH4	SI:CH73-96B22.1 (1 of 2)
+augustus_masked-GapFilledScaffold_1126-processed-gene-0.18	HSPA1B	SI:CH211-199O1.2 (1 of 3)
+maker-GapFilledScaffold_6759-augustus-gene-0.6	MAPKAP1	MAPKAP1
+maker-GapFilledScaffold_838-augustus-gene-0.29	CDH4	CDH4 (4 of 4)
+maker-GapFilledScaffold_608-snap-gene-0.50	ESRRG	ESRRA
+maker-GapFilledScaffold_2363-augustus-gene-0.36	EIF4E3	EIF4E3 (1 of 3)
+maker-GapFilledScaffold_3987-snap-gene-2.57	PIK3CA	PIK3CA (1 of 4)
+augustus_masked-GapFilledScaffold_2754-processed-gene-0.15	POLB	POLB
+augustus_masked-GapFilledScaffold_1126-processed-gene-0.17	HSPA1B	SI:CH211-199O1.2 (2 of 3)
+augustus_masked-GapFilledScaffold_300-processed-gene-0.6	HPCAL1	HPCAL1
+maker-GapFilledScaffold_1073-snap-gene-1.51	CAMTA1	CAMTA2 (1 of 3)
+augustus_masked-GapFilledScaffold_1126-processed-gene-0.16	HSPA1B	SI:CH211-199O1.2 (3 of 3)
+maker-GapFilledScaffold_554-augustus-gene-1.23	RHOA	RHOAD
+augustus_masked-GapFilledScaffold_465-processed-gene-2.27	RYR3	RYR1B (1 of 2)
+maker-GapFilledScaffold_85-augustus-gene-2.28	RNF145	RNF145B
+maker-GapFilledScaffold_7755-augustus-gene-0.13	MSTN	MSTNB
+augustus_masked-GapFilledScaffold_2814-processed-gene-0.8	MAP3K7	MAP3K7 (1 of 3)
+maker-GapFilledScaffold_6399-augustus-gene-0.5	CADM1	CADM1B (1 of 2)
+maker-GapFilledScaffold_915-snap-gene-0.30	CLSTN2	CLSTN2 (2 of 4)
+maker-GapFilledScaffold_6925-augustus-gene-0.6	LYN	LYN
+augustus_masked-GapFilledScaffold_2814-processed-gene-0.7	MAP3K7	MAP3K7 (2 of 3)
+maker-GapFilledScaffold_2017-snap-gene-0.34	POT1	POT1 (2 of 3)
+maker-GapFilledScaffold_4751-snap-gene-0.10	TUSC3	TUSC3
+snap_masked-GapFilledScaffold_1436-processed-gene-1.15	FAM19A5	FAM19A5 (4 of 4)
+maker-GapFilledScaffold_465-snap-gene-2.80	TGFB1	TGFB1B
+maker-GapFilledScaffold_5977-augustus-gene-0.12	EBF3	EBF3 (1 of 10)
+maker-GapFilledScaffold_8684-augustus-gene-0.4	ASIC2	ASIC2 (2 of 6)
+maker-GapFilledScaffold_2017-augustus-gene-0.29	POT1	POT1 (1 of 3)
+augustus_masked-GapFilledScaffold_7755-processed-gene-0.5	GSTT1	GSTT1
+maker-GapFilledScaffold_85-snap-gene-1.34	ADRB2	ADRB2B
+maker-GapFilledScaffold_159-snap-gene-2.38	AKT3	AKT3 (2 of 2)
+augustus_masked-GapFilledScaffold_1636-processed-gene-0.15	PROM1	PROM2 (1 of 2)
+augustus_masked-GapFilledScaffold_4300-processed-gene-0.2	CSMD3	CSMD3 (8 of 22)
+snap_masked-GapFilledScaffold_1436-processed-gene-1.10	FAM19A5	FAM19A5 (1 of 4)
+maker-GapFilledScaffold_979-snap-gene-0.31	THSD7B	THSD7B
+maker-GapFilledScaffold_2351-augustus-gene-0.15	NAV2	NAV2 (2 of 3)
+augustus_masked-GapFilledScaffold_6765-processed-gene-0.4	RAD23B	RAD23AA (1 of 2)
+maker-GapFilledScaffold_26-snap-gene-2.37	EIF4E	EIF4E (2 of 2)
+augustus_masked-GapFilledScaffold_2771-processed-gene-0.6	H6PD	H6PD
+maker-GapFilledScaffold_8717-augustus-gene-0.11	CDK14	CDK14 (1 of 3)
+maker-GapFilledScaffold_4645-snap-gene-0.13	CSMD3	CSMD3 (21 of 22)
+augustus_masked-GapFilledScaffold_50-processed-gene-2.17	EIF4EBP1	EIF4EBP1
+maker-GapFilledScaffold_4645-augustus-gene-0.9	CSMD3	CSMD3 (3 of 22)
+augustus_masked-GapFilledScaffold_754-processed-gene-0.21	CARS	CARS
+maker-GapFilledScaffold_356-snap-gene-1.25	CTNNA2	CTNNA2 (2 of 3)
+augustus_masked-GapFilledScaffold_77-processed-gene-2.11	MYT1L	MYT1L (2 of 2)
+maker-GapFilledScaffold_10517-augustus-gene-0.5	GSG1L	GSG1L (1 of 8)
+maker-GapFilledScaffold_6133-augustus-gene-0.8	DOCK2	DOCK2 (2 of 5)
+maker-GapFilledScaffold_4645-augustus-gene-0.11	CSMD3	CSMD3 (4 of 22)
+maker-GapFilledScaffold_26-snap-gene-2.35	LINGO2	LINGO2 (1 of 2)
+maker-GapFilledScaffold_2771-augustus-gene-0.29	MLST8	MLST8
+maker-GapFilledScaffold_6157-snap-gene-0.16	PROM1	PROM1B (1 of 2)
+maker-GapFilledScaffold_3668-snap-gene-0.56	KIF13B	KIF13BA (1 of 2)
+augustus_masked-GapFilledScaffold_16265-processed-gene-0.2	HSPA1L	HSP70.3 (1 of 5)
+augustus_masked-GapFilledScaffold_6243-processed-gene-0.7	SLC6A4	SLC6A4A (2 of 3)
+augustus_masked-GapFilledScaffold_6243-processed-gene-0.6	SLC6A4	SLC6A4A (1 of 3)
+maker-GapFilledScaffold_302-snap-gene-1.28	PICALM	PICALM (1 of 2)
+maker-GapFilledScaffold_8627-snap-gene-0.26	TRIM25	TRIM25 (4 of 8)
+augustus_masked-GapFilledScaffold_442-processed-gene-1.15	CHST11	CHST11 (3 of 3)
+augustus_masked-GapFilledScaffold_6113-processed-gene-0.3	LRP1B	LRP1BB (2 of 6)
+maker-GapFilledScaffold_157-snap-gene-1.36	KCTD1	KCTD1 (4 of 4)
+maker-GapFilledScaffold_10561-snap-gene-0.6	TBXAS1	TBXAS1 (1 of 3)
+maker-GapFilledScaffold_1120-snap-gene-2.35	ADARB2	ADARB2 (3 of 3)
+augustus_masked-GapFilledScaffold_29-processed-gene-1.7	FOXO1	FOXO1B (2 of 2)
+augustus_masked-GapFilledScaffold_29-processed-gene-1.8	FOXO1	FOXO1B (1 of 2)
+maker-GapFilledScaffold_6106-snap-gene-0.21	C2	SI:CH1073-280E3.1 (2 of 2)
+maker-GapFilledScaffold_1567-augustus-gene-1.55	SIRT1	MYPN (2 of 2)
+maker-GapFilledScaffold_2056-snap-gene-0.42	NLRC5	NLRC5 (2 of 2)
+snap_masked-GapFilledScaffold_8627-processed-gene-0.19	TRIM25	TRIM25 (1 of 8)
+augustus_masked-GapFilledScaffold_1234-processed-gene-0.14	SORCS1	SI:CH211-207N2.8 (1 of 4)
+maker-GapFilledScaffold_6694-snap-gene-0.9	PROM1	PROM1B (2 of 2)
+maker-GapFilledScaffold_236-augustus-gene-1.59	HSPA14	HSPA14
+maker-GapFilledScaffold_612-snap-gene-0.56	KL	KL
+maker-GapFilledScaffold_2076-snap-gene-0.49	GSG1L	GSG1L (6 of 8)
+augustus_masked-GapFilledScaffold_1195-processed-gene-1.11	CCDC85A	CCDC85B
+maker-GapFilledScaffold_3810-augustus-gene-0.9	ASIC2	ASIC2 (4 of 6)
+snap_masked-GapFilledScaffold_1663-processed-gene-0.11	TBXAS1	TBXAS1 (3 of 3)
+maker-GapFilledScaffold_883-augustus-gene-1.75	GSTT1	GSTT1A
+maker-GapFilledScaffold_612-snap-gene-0.52	NBEA	NBEA (3 of 5)
+maker-GapFilledScaffold_2076-snap-gene-0.45	CCDC85A	CCDC85AL
+maker-GapFilledScaffold_16506-augustus-gene-0.4	TRIM25	TRIM25 (6 of 8)
+maker-GapFilledScaffold_2-snap-gene-3.16	PLXNA4	PLXNA4
+augustus_masked-GapFilledScaffold_1211-processed-gene-1.19	TH	TH2
+maker-GapFilledScaffold_998-augustus-gene-0.37	RPS6	RPS6
+maker-GapFilledScaffold_3036-snap-gene-0.55	TSHR	TSHR (1 of 2)
+augustus_masked-GapFilledScaffold_133-processed-gene-2.13	CGNL1	CGNL1 (1 of 3)
+maker-GapFilledScaffold_78-augustus-gene-2.43	CTNND2	CTNND2A (2 of 2)
+maker-GapFilledScaffold_3386-augustus-gene-0.31	OGDH	OGDH (2 of 2)
+maker-GapFilledScaffold_1165-augustus-gene-0.21	UBE2H	UBE2H (2 of 2)
+maker-GapFilledScaffold_440-snap-gene-4.44	TENM4	ODZ4
+snap_masked-GapFilledScaffold_10612-processed-gene-0.3	MYT1L	MYT1L (1 of 2)
+maker-GapFilledScaffold_2232-augustus-gene-0.24	ADARB1	ADARB1
+maker-GapFilledScaffold_2611-snap-gene-1.16	FOXO3	FOXO3A (2 of 2)
+maker-GapFilledScaffold_440-augustus-gene-0.24	FOXO1	FOXO1A
+maker-GapFilledScaffold_1165-snap-gene-2.65	PRR5	PRR5 (1 of 2)
+snap_masked-GapFilledScaffold_3371-processed-gene-0.13	CDK14	CDK14 (3 of 3)
+maker-GapFilledScaffold_1165-snap-gene-2.54	RAD52	RAD52
+maker-GapFilledScaffold_1303-augustus-gene-0.34	CYP1B1	CYP1B1 (1 of 2)
+maker-GapFilledScaffold_1978-snap-gene-0.33	SLC4A4	SLC4A4 (2 of 3)
+augustus_masked-GapFilledScaffold_1261-processed-gene-0.7	SIRT3	SIRT3
+maker-GapFilledScaffold_11387-augustus-gene-0.6	ACE	ACE (1 of 8)
+maker-GapFilledScaffold_1261-augustus-gene-0.28	DRD4	DRD4 (2 of 3)
+augustus_masked-GapFilledScaffold_55-processed-gene-2.10	CLYBL	CLYBL (2 of 2)
+maker-GapFilledScaffold_1209-augustus-gene-0.14	LRP1B	LRP1BB (5 of 6)
+maker-GapFilledScaffold_813-snap-gene-1.42	VEGFA	VEGFA (1 of 2)
+maker-GapFilledScaffold_1394-snap-gene-0.22	SORCS2	SORCS2
+snap_masked-GapFilledScaffold_1261-processed-gene-0.19	DRD4	DRD4 (1 of 3)
+maker-GapFilledScaffold_5396-augustus-gene-0.6	NBEA	NBEA (2 of 5)
+snap_masked-GapFilledScaffold_55-processed-gene-2.30	CLYBL	CLYBL (1 of 2)
+maker-GapFilledScaffold_4837-augustus-gene-0.23	HRAS	ZGC:55558
+maker-GapFilledScaffold_2195-augustus-gene-0.34	CDKN1A	CDKN1A (2 of 2)
+augustus_masked-GapFilledScaffold_3847-processed-gene-0.9	TBL1XR1	TBL1XR1
+maker-GapFilledScaffold_5451-augustus-gene-0.14	AGT	AGT
+augustus_masked-GapFilledScaffold_3423-processed-gene-0.7	TMEM151B	TMEM151A
+maker-GapFilledScaffold_1443-snap-gene-0.41	AKAP10	AKAP10
+augustus_masked-GapFilledScaffold_10375-processed-gene-0.1	DEPTOR	DEPTOR (1 of 3)
+augustus_masked-GapFilledScaffold_3274-processed-gene-0.4	THSD7B	THSD7BA (1 of 3)
+augustus_masked-GapFilledScaffold_3449-processed-gene-0.6	PCNXL2	PCNXL2
+maker-GapFilledScaffold_2952-augustus-gene-0.25	ADARB1	ADARB1B
+maker-GapFilledScaffold_7399-augustus-gene-0.18	RYR3	RYR3 (3 of 9)
+maker-GapFilledScaffold_5065-snap-gene-0.23	TOMM40	TOMM40 (2 of 2)
+augustus_masked-GapFilledScaffold_13756-processed-gene-0.2	HSPA1L	HSP70.3 (3 of 5)
+snap_masked-GapFilledScaffold_4543-processed-gene-0.6	NLRC5	NLRC5 (1 of 2)
+maker-GapFilledScaffold_458-snap-gene-1.72	RYR3	RYR3 (8 of 9)
+maker-GapFilledScaffold_7067-snap-gene-0.6	ULK1	ULK1B (2 of 2)
+augustus_masked-GapFilledScaffold_2373-processed-gene-0.11	GHSR	GHSRA (2 of 2)
+maker-GapFilledScaffold_1086-augustus-gene-0.20	DOCK8	DOCK8 (1 of 2)
+maker-GapFilledScaffold_7445-snap-gene-0.13	INS	INS (2 of 2)
+maker-GapFilledScaffold_458-snap-gene-1.71	RYR3	RYR3 (2 of 9)
+maker-GapFilledScaffold_10572-augustus-gene-0.5	GSG1L	GSG1L (4 of 8)
+maker-GapFilledScaffold_12428-augustus-gene-0.4	MEFV	TRIM21 (1 of 4)
+augustus_masked-GapFilledScaffold_2914-processed-gene-0.5	MTTP	MTP
+maker-GapFilledScaffold_1022-augustus-gene-0.49	XKR6	XKR5
+maker-GapFilledScaffold_1998-snap-gene-0.36	RAC2	RAC2 (3 of 3)
+maker-GapFilledScaffold_330-augustus-gene-0.15	EXO1	EXO1
+maker-GapFilledScaffold_1056-augustus-gene-1.54	SIRT3	SI:DKEY-103I16.6
+maker-GapFilledScaffold_458-augustus-gene-1.50	RYR3	RYR3 (6 of 9)
+augustus_masked-GapFilledScaffold_12393-processed-gene-0.1	ACE	ACE (2 of 8)
+maker-GapFilledScaffold_1653-snap-gene-0.45	MYT1L	MYT1LA (1 of 2)
+maker-GapFilledScaffold_3143-augustus-gene-0.14	PPP2R2B	PPP2R2BA
+augustus_masked-GapFilledScaffold_1673-processed-gene-0.5	CYP1B1	CYP1C2
+maker-GapFilledScaffold_905-snap-gene-0.74	APOB	APOB
+augustus_masked-GapFilledScaffold_240-processed-gene-1.9	GSG1L	GSG1L (8 of 8)
+maker-GapFilledScaffold_696-snap-gene-0.50	TERT	TERT
+maker-GapFilledScaffold_2474-snap-gene-0.14	CAMTA1	CAMTA1 (1 of 3)
+maker-GapFilledScaffold_2591-augustus-gene-1.45	KIF13B	KIF13B
+maker-GapFilledScaffold_3759-snap-gene-0.11	EIF4E3	EIF4E3 (3 of 3)
+augustus_masked-GapFilledScaffold_3765-processed-gene-0.11	IL12A	IL12A (2 of 2)
+augustus_masked-GapFilledScaffold_1673-processed-gene-0.4	CYP1B1	CYP1B1 (2 of 2)
+maker-GapFilledScaffold_3011-snap-gene-0.22	SLC9A3R2	SLC9A3R2 (2 of 3)
+maker-GapFilledScaffold_365-snap-gene-1.30	FGFR1	FGFR1 (2 of 2)
+maker-GapFilledScaffold_789-snap-gene-0.47	AKT1	AKT1
+augustus_masked-GapFilledScaffold_1063-processed-gene-0.4	GHSR	GHSRA (1 of 2)
+maker-GapFilledScaffold_905-augustus-gene-0.67	CCDC88C	CCDC88C
+maker-GapFilledScaffold_1848-augustus-gene-0.32	FGFR1	FGFR1 (1 of 2)
+maker-GapFilledScaffold_5209-augustus-gene-0.27	SLC6A4	SLC6A4A (3 of 3)
+maker-GapFilledScaffold_5962-augustus-gene-0.14	MTR	MTR (1 of 2)
+maker-GapFilledScaffold_1083-augustus-gene-0.44	SLC6A4	SLC6A4B
+maker-GapFilledScaffold_227-snap-gene-1.57	SVEP1	SVEP1 (3 of 3)
+maker-GapFilledScaffold_6372-snap-gene-0.9	VPS13D	VPS13D (2 of 6)
+augustus_masked-GapFilledScaffold_3853-processed-gene-0.7	PARK2	PARK2
+maker-GapFilledScaffold_1681-augustus-gene-0.30	LAMTOR2	LAMTOR2
+augustus_masked-GapFilledScaffold_551-processed-gene-1.10	EBF3	EBF4
+maker-GapFilledScaffold_315-augustus-gene-1.41	YTHDF2	YTH2
+maker-GapFilledScaffold_218-snap-gene-2.37	ADAMTSL1	ADAMTSL1
+maker-GapFilledScaffold_11300-snap-gene-0.5	CSMD3	CSMD3 (9 of 22)
+maker-GapFilledScaffold_14482-augustus-gene-0.5	TRIM25	TRIM25 (8 of 8)
+augustus_masked-GapFilledScaffold_435-processed-gene-0.4	HMOX1	HMOX1 (1 of 2)
+maker-GapFilledScaffold_2940-snap-gene-0.23	SYNE1	SYNE1B (1 of 2)
+augustus_masked-GapFilledScaffold_551-processed-gene-1.9	EBF3	EBF3 (7 of 10)
+snap_masked-GapFilledScaffold_5867-processed-gene-0.9	KCTD1	KCTD1 (1 of 4)
+maker-GapFilledScaffold_3797-augustus-gene-0.49	DRD4	DRD4 (3 of 3)
+maker-GapFilledScaffold_2568-snap-gene-0.16	NBEA	NBEAA (4 of 5)
+maker-GapFilledScaffold_112-snap-gene-2.64	MYO9B	MYO9B (2 of 2)
+augustus_masked-GapFilledScaffold_551-processed-gene-1.16	EBF3	EBF3 (10 of 10)
+maker-GapFilledScaffold_1679-snap-gene-1.31	LYST	LYST
+augustus_masked-GapFilledScaffold_551-processed-gene-1.13	EBF3	EBF3 (2 of 10)
+maker-GapFilledScaffold_4632-augustus-gene-0.8	INS	INS (1 of 2)
+maker-GapFilledScaffold_331-augustus-gene-3.27	CAMTA1	CAMTA1A
+augustus_masked-GapFilledScaffold_699-processed-gene-1.13	TRIM25	FTR67 (3 of 3)
+maker-GapFilledScaffold_1886-augustus-gene-1.21	CSMD3	CSMD3 (1 of 22)
+maker-GapFilledScaffold_1886-augustus-gene-1.22	CSMD3	CSMD3 (11 of 22)
+maker-GapFilledScaffold_6607-snap-gene-0.31	TSC2	TSC2 (2 of 2)
+maker-GapFilledScaffold_1249-snap-gene-0.44	DOCK8	DOCK8 (2 of 2)
+maker-GapFilledScaffold_7093-augustus-gene-0.8	RAC2	RAC2 (2 of 3)
+augustus_masked-GapFilledScaffold_519-processed-gene-1.23	CAMK4	CAMK4 (2 of 2)
+maker-GapFilledScaffold_5276-augustus-gene-0.18	EPB41L4B	EPB41L4B (1 of 2)
+maker-GapFilledScaffold_1840-snap-gene-0.25	ITGB3	ITGB3A (2 of 2)
+augustus_masked-GapFilledScaffold_519-processed-gene-1.24	CAMK4	CAMK4 (1 of 2)
+maker-GapFilledScaffold_4977-augustus-gene-0.9	GSG1L	GSG1L (7 of 8)
+maker-GapFilledScaffold_1826-snap-gene-0.45	ATG13	ATG13
+maker-GapFilledScaffold_4205-augustus-gene-0.18	IGF1R	IGF1R (2 of 2)
+maker-GapFilledScaffold_723-augustus-gene-2.62	GPC6	GPC4
+maker-GapFilledScaffold_906-augustus-gene-0.43	PAX4	PAX4
+maker-GapFilledScaffold_6780-augustus-gene-0.12	TBXAS1	TBXAS1 (2 of 3)
+maker-GapFilledScaffold_633-augustus-gene-0.24	PREX1	PREX1
+maker-GapFilledScaffold_366-snap-gene-1.19	SORCS1	SORCS1 (2 of 4)
+maker-GapFilledScaffold_732-augustus-gene-0.23	CSMD3	CSMD3 (17 of 22)
+maker-GapFilledScaffold_3784-augustus-gene-0.24	CSMD3	CSMD3 (14 of 22)
+maker-GapFilledScaffold_342-augustus-gene-1.35	RAC2	RAC2 (1 of 3)
+snap_masked-GapFilledScaffold_11491-processed-gene-0.0	CSMD3	CSMD3 (13 of 22)
+maker-GapFilledScaffold_342-snap-gene-1.42	DLGAP5	DLGAP5
+maker-GapFilledScaffold_5616-augustus-gene-0.13	MEOX2	MEOX2
+augustus_masked-GapFilledScaffold_2895-processed-gene-0.4	PPARG	PPARG
+maker-GapFilledScaffold_1350-augustus-gene-0.46	MLH1	MLH1
+maker-GapFilledScaffold_859-augustus-gene-1.24	RYR3	RYR3 (1 of 9)
+maker-GapFilledScaffold_3650-augustus-gene-0.22	ACE	ACE (8 of 8)
+maker-GapFilledScaffold_115-augustus-gene-0.13	SREBF1	SREBF1
+maker-GapFilledScaffold_5257-augustus-gene-0.14	MAP3K7	MAP3K7 (3 of 3)
+maker-GapFilledScaffold_2898-snap-gene-0.29	CHST11	CHST11 (1 of 3)
+maker-GapFilledScaffold_48-snap-gene-2.27	NR3C1	NR3C1 (1 of 4)
+augustus_masked-GapFilledScaffold_571-processed-gene-1.25	PICALM	PICALM (2 of 2)
+maker-GapFilledScaffold_1996-snap-gene-0.21	CLSTN2	CLSTN2 (4 of 4)
+maker-GapFilledScaffold_3438-augustus-gene-0.10	CTNNA2	CTNNA2 (1 of 3)
+augustus_masked-GapFilledScaffold_12214-processed-gene-0.2	CSMD3	CSMD3 (22 of 22)
+maker-GapFilledScaffold_3343-augustus-gene-0.34	PGPEP1	PGPEP1 (2 of 3)
+augustus_masked-GapFilledScaffold_9513-processed-gene-0.0	LINGO2	LINGO2 (2 of 2)
+maker-GapFilledScaffold_3578-snap-gene-0.25	PITPNM3	PITPNM3 (2 of 3)
+maker-GapFilledScaffold_4608-augustus-gene-0.17	RAD51D	RAD51D
+maker-GapFilledScaffold_10837-snap-gene-0.5	NAV2	NAV2 (1 of 3)
+augustus_masked-GapFilledScaffold_441-processed-gene-1.8	RPTOR	RPTOR (4 of 5)
+augustus_masked-GapFilledScaffold_653-processed-gene-1.11	SGSH	SGSH
+maker-GapFilledScaffold_4244-augustus-gene-1.43	TSC1	TSC1B (1 of 2)
+snap_masked-GapFilledScaffold_441-processed-gene-1.19	RPTOR	RPTOR (2 of 5)
+maker-GapFilledScaffold_6167-augustus-gene-0.16	STK24	STK24A
+maker-GapFilledScaffold_441-snap-gene-1.46	RPTOR	RPTOR (1 of 5)
+maker-GapFilledScaffold_441-augustus-gene-1.39	RPTOR	RPTOR (5 of 5)
+maker-GapFilledScaffold_1477-augustus-gene-0.29	NR3C1	NR3C1 (3 of 4)
+maker-GapFilledScaffold_15-snap-gene-1.20	PRKCA	PRKCA (2 of 2)
+maker-GapFilledScaffold_3745-augustus-gene-0.17	NT5DC1	NT5DC1 (2 of 2)
+maker-GapFilledScaffold_5861-snap-gene-0.9	CSMD3	CSMD3 (2 of 22)
+maker-GapFilledScaffold_9487-augustus-gene-0.8	ITGA1	ITGA1 (2 of 2)
+maker-GapFilledScaffold_4244-augustus-gene-0.10	RHOA	RHOA (1 of 3)
+maker-GapFilledScaffold_93-augustus-gene-0.11	RHOA	RHOA (2 of 3)
+augustus_masked-GapFilledScaffold_6650-processed-gene-0.0	ESRRG	ESRRGA (1 of 2)
+maker-GapFilledScaffold_3270-augustus-gene-0.31	ESRRG	ESRRGA (2 of 2)
+augustus_masked-GapFilledScaffold_1299-processed-gene-0.25	ESRRG	ESRRG (1 of 2)
+maker-GapFilledScaffold_200-snap-gene-1.21	CGNL1	CGNL1 (3 of 3)
+maker-GapFilledScaffold_5682-snap-gene-0.23	SERPINE1	SERPINE1
+augustus_masked-GapFilledScaffold_5908-processed-gene-0.4	HSPA1L	HSP70.3 (5 of 5)
+maker-GapFilledScaffold_2318-snap-gene-0.33	TMEM2	TMEM2
+maker-GapFilledScaffold_2221-snap-gene-0.24	ULK1	ULK1B (1 of 2)
+maker-GapFilledScaffold_5088-augustus-gene-0.18	SOCS2	SOCS2
+maker-GapFilledScaffold_2761-augustus-gene-0.32	CLSTN2	CLSTN2 (3 of 4)
+maker-GapFilledScaffold_733-snap-gene-2.28	EBF3	EBF3 (5 of 10)
+augustus_masked-GapFilledScaffold_514-processed-gene-1.5	SIRT6	SIRT6
+maker-GapFilledScaffold_7978-snap-gene-0.8	DOCK2	DOCK2 (3 of 5)
+maker-GapFilledScaffold_527-augustus-gene-1.31	ADARB2	ADARB2 (1 of 3)
+maker-GapFilledScaffold_5452-snap-gene-0.9	GPC6	GPC2 (1 of 2)
+maker-GapFilledScaffold_4529-snap-gene-0.24	RPS6KB1	RPS6KB1
+augustus_masked-GapFilledScaffold_99-processed-gene-3.29	VEGFA	VEGFA (2 of 2)
+augustus_masked-GapFilledScaffold_15912-processed-gene-0.2	HSPA1L	HSP70.3 (4 of 5)
+augustus_masked-GapFilledScaffold_2074-processed-gene-0.22	UCP3	UCP1
+snap_masked-GapFilledScaffold_922-processed-gene-1.24	SORCS1	SI:CH211-207N2.8 (2 of 4)
+maker-GapFilledScaffold_7476-snap-gene-0.12	SLC4A4	SLC4A4A (1 of 2)
+maker-GapFilledScaffold_836-snap-gene-0.34	SORCS2	
+maker-GapFilledScaffold_6957-augustus-gene-0.9	PRKCA	PRKCG (1 of 2)
+maker-GapFilledScaffold_1116-augustus-gene-0.42	ANGEL1	ANGEL1
+maker-GapFilledScaffold_7155-snap-gene-0.14	ASIC2	ASIC2 (5 of 6)
+maker-GapFilledScaffold_99-augustus-gene-2.17	YY1	YY1B (2 of 2)
+maker-GapFilledScaffold_11357-augustus-gene-0.3	NBEA	NBEAA (1 of 5)
+maker-GapFilledScaffold_1116-augustus-gene-0.34	VASH1	VASH1
+maker-GapFilledScaffold_922-augustus-gene-0.6	SORCS1	SORCS1 (1 of 4)
+maker-GapFilledScaffold_895-est_gff_Cufflinks-gene-2.0	PRKCA	PRKCB (6 of 6)
+augustus_masked-GapFilledScaffold_3620-processed-gene-0.12	FOXO4	FOXO3A (1 of 2)
+augustus_masked-GapFilledScaffold_9817-processed-gene-0.1	ADA	ADA (1 of 2)
+maker-GapFilledScaffold_940-snap-gene-0.50	CPB2	CPB2
+maker-GapFilledScaffold_928-snap-gene-4.40	C9ORF3	C9ORF3 (1 of 2)
+augustus_masked-GapFilledScaffold_6951-processed-gene-0.8	CAMTA1	CAMTA2 (3 of 3)
+maker-GapFilledScaffold_3166-augustus-gene-0.9	SEMA6A	SEMA6A (1 of 2)
+maker-GapFilledScaffold_1571-snap-gene-0.42	OGDH	OGDH (1 of 2)
+maker-GapFilledScaffold_3544-snap-gene-0.24	RYR3	RYR3 (7 of 9)
+augustus_masked-GapFilledScaffold_2247-processed-gene-0.7	SLC9A3R2	SLC9A3R2 (3 of 3)
+maker-GapFilledScaffold_6916-augustus-gene-0.12	PARVG	PARVG
+maker-GapFilledScaffold_3620-augustus-gene-0.32	LACE1	LACE1A
+maker-GapFilledScaffold_432-augustus-gene-1.14	PITPNM3	PITPNM3 (1 of 3)
+augustus_masked-GapFilledScaffold_8350-processed-gene-0.3	SH2D4A	SH2D4A
+maker-GapFilledScaffold_918-augustus-gene-0.28	ERGIC1	ERGIC1
+maker-GapFilledScaffold_2091-snap-gene-0.49	ERCC2	ERCC2
+maker-GapFilledScaffold_2502-snap-gene-0.25	BHLHE41	BHLHE41
+augustus_masked-GapFilledScaffold_1012-processed-gene-1.7	LMX1B	LMX1BB (2 of 2)
+augustus_masked-GapFilledScaffold_5754-processed-gene-0.7	ESRRG	ESRRD
+maker-GapFilledScaffold_310-snap-gene-1.96	TSC1	TSC1 (1 of 2)
+maker-GapFilledScaffold_1295-augustus-gene-0.53	RNF145	RNF145
+maker-GapFilledScaffold_1254-augustus-gene-1.56	HIF1A	HIF1A
+augustus_masked-GapFilledScaffold_2837-processed-gene-0.10	TRIM25	ZGC:92594
+maker-GapFilledScaffold_3761-snap-gene-0.18	NR3C1	NR3C1 (2 of 4)
+maker-GapFilledScaffold_2508-snap-gene-0.24	BRE	BRE (2 of 2)
+maker-GapFilledScaffold_5357-augustus-gene-0.12	NPAT	NPAT
+augustus_masked-GapFilledScaffold_8933-processed-gene-0.2	YWHAG	YWHAG (1 of 2)
+maker-GapFilledScaffold_1971-augustus-gene-0.36	IRS2	ZGC:56306
+augustus_masked-GapFilledScaffold_2502-processed-gene-0.4	SSPN	SSPN
+maker-GapFilledScaffold_1817-snap-gene-0.13	CSMD3	CSMD3 (16 of 22)
+maker-GapFilledScaffold_1982-snap-gene-0.26	RHOA	RHOA (3 of 3)
+augustus_masked-GapFilledScaffold_1012-processed-gene-1.6	LMX1B	LMX1BB (1 of 2)
+maker-GapFilledScaffold_11264-augustus-gene-0.2	CADM1	CADM1
+augustus_masked-GapFilledScaffold_8112-processed-gene-0.6	NFKB1	NFKB1
+maker-GapFilledScaffold_562-augustus-gene-0.11	CYP19A1	CYP19A1B
+maker-GapFilledScaffold_1135-augustus-gene-0.30	UBE2H	UBE2H (1 of 2)
+maker-GapFilledScaffold_216-augustus-gene-2.30	KCTD1	KCTD1 (2 of 4)
+maker-GapFilledScaffold_310-snap-gene-1.98	TSC1	TSC1 (2 of 2)
+maker-GapFilledScaffold_3584-augustus-gene-0.28	GATA4	GATA4
+maker-GapFilledScaffold_2202-snap-gene-0.14	CTNND2	CTNND2B (3 of 3)
+maker-GapFilledScaffold_867-augustus-gene-1.41	PRR5	PRR5 (2 of 2)
+maker-GapFilledScaffold_2013-augustus-gene-0.17	APBB2	APBB2 (1 of 2)
+augustus_masked-GapFilledScaffold_592-processed-gene-2.18	TP53	TP53 (2 of 2)
+augustus_masked-GapFilledScaffold_852-processed-gene-0.6	SLC4A4	SLC4A4A (2 of 2)
+maker-GapFilledScaffold_806-augustus-gene-0.10	VPS13D	VPS13D (4 of 6)
+maker-GapFilledScaffold_1042-snap-gene-1.26	STK24	STK24B
+augustus_masked-GapFilledScaffold_5699-processed-gene-0.3	VPS13D	VPS13D (3 of 6)
+maker-GapFilledScaffold_2177-augustus-gene-0.21	UCP2	UCP2
+maker-GapFilledScaffold_900-augustus-gene-0.38	SULT1A1	SULT1A1
+maker-GapFilledScaffold_2013-snap-gene-0.25	APBB2	APBB2 (2 of 2)
+maker-GapFilledScaffold_627-augustus-gene-0.44	IGF2R	IGF2R
+maker-GapFilledScaffold_276-augustus-gene-3.54	TMEM151B	TMEM151B
+augustus_masked-GapFilledScaffold_3398-processed-gene-0.10	PTAR1	PTAR1
+maker-GapFilledScaffold_2484-snap-gene-0.28	SGK1	SGK1
+maker-GapFilledScaffold_14958-snap-gene-0.3	LRP1B	LRP1B (1 of 2)
+augustus_masked-GapFilledScaffold_510-processed-gene-1.8	SORCS1	SORCS1 (4 of 4)
+maker-GapFilledScaffold_3612-augustus-gene-0.14	CARD14	CARD14
+maker-GapFilledScaffold_1077-augustus-gene-0.34	ENOX1	ENOX1 (2 of 2)
+maker-GapFilledScaffold_3420-augustus-gene-0.22	ABCC4	ABCC4
+augustus_masked-GapFilledScaffold_1915-processed-gene-0.10	C2	BFB (1 of 4)
+maker-GapFilledScaffold_207-snap-gene-1.26	CDH4	CDH4 (1 of 4)
+augustus_masked-GapFilledScaffold_1281-processed-gene-0.14	XKR6	XKR6 (2 of 4)
+augustus_masked-GapFilledScaffold_1281-processed-gene-0.13	XKR6	XKR6 (4 of 4)
+maker-GapFilledScaffold_352-augustus-gene-1.36	EIF4E	EIF4E (1 of 2)
+augustus_masked-GapFilledScaffold_271-processed-gene-1.9	INSR	INSRB
+maker-GapFilledScaffold_1518-snap-gene-0.23	PICALM	PICALMB (2 of 2)
+maker-GapFilledScaffold_463-snap-gene-1.27	CDH4	CDH4 (2 of 4)
+maker-GapFilledScaffold_781-augustus-gene-0.40	PICALM	PICALMB (1 of 2)
+maker-GapFilledScaffold_3697-augustus-gene-0.24	CSMD3	CSMD3 (15 of 22)
+maker-GapFilledScaffold_3936-snap-gene-0.33	PRKCA	SI:CH1073-370J18.1
+maker-GapFilledScaffold_2743-augustus-gene-0.38	RRAGA	RRAGA
+maker-GapFilledScaffold_3839-augustus-gene-0.14	PICALM	SI:CH211-200P22.4 (1 of 2)
+augustus_masked-GapFilledScaffold_7263-processed-gene-0.4	EIF4E3	EIF4E3 (2 of 3)
+augustus_masked-GapFilledScaffold_12911-processed-gene-0.1	LMNA	LMNA (2 of 3)
+maker-GapFilledScaffold_1236-snap-gene-3.33	PROM1	PROM1A
+maker-GapFilledScaffold_1603-snap-gene-0.46	SYNE1	SYNE1A (3 of 3)
+snap_masked-GapFilledScaffold_7231-processed-gene-0.11	AKT3	AKT3 (1 of 2)
+maker-GapFilledScaffold_4715-snap-gene-0.29	CSF1R	CSF1R
+maker-GapFilledScaffold_3812-augustus-gene-0.14	CDKN2C	CDKN2C
+maker-GapFilledScaffold_4745-augustus-gene-0.8	CSMD3	CSMD3 (7 of 22)
+augustus_masked-GapFilledScaffold_478-processed-gene-1.24	GSG1L	SI:CH211-232M10.6
+maker-GapFilledScaffold_2665-snap-gene-0.38	SYNE1	SYNE1A (2 of 3)
+maker-GapFilledScaffold_8877-snap-gene-0.6	MTR	MTR (2 of 2)
+maker-GapFilledScaffold_2665-augustus-gene-0.29	ESR1	ESR1
+maker-GapFilledScaffold_5714-snap-gene-0.30	NBEA	NBEAA (2 of 5)
+maker-GapFilledScaffold_885-augustus-gene-1.45	LMNA	LMNA (3 of 3)
+maker-GapFilledScaffold_5790-augustus-gene-0.11	ENOX1	ENOX1 (1 of 2)
+maker-GapFilledScaffold_167-augustus-gene-1.38	CERS1	CERS1
+maker-GapFilledScaffold_4326-augustus-gene-0.12	GSG1L	GSG1L (5 of 8)
+maker-GapFilledScaffold_648-augustus-gene-0.58	RICTOR	RICTOR
+maker-GapFilledScaffold_1132-snap-gene-1.47	WWOX	WWOX (1 of 2)
+augustus_masked-GapFilledScaffold_3090-processed-gene-0.9	SORCS1	SI:CH211-207N2.8 (3 of 4)
+augustus_masked-GapFilledScaffold_854-processed-gene-0.10	TNF	TNFB (2 of 3)
+maker-GapFilledScaffold_516-augustus-gene-1.66	POLDIP3	POLDIP3
+augustus_masked-GapFilledScaffold_167-processed-gene-1.15	MYO9B	MYO9B (1 of 2)
+maker-GapFilledScaffold_4197-snap-gene-0.11	INSR	INSRA
+maker-GapFilledScaffold_593-snap-gene-1.43	MTOR	MTOR
+maker-GapFilledScaffold_3749-augustus-gene-0.13	LRP1B	LRP1BB (3 of 6)
+maker-GapFilledScaffold_56-augustus-gene-2.53	SYNE1	SYNE1B (2 of 2)
+maker-GapFilledScaffold_12030-augustus-gene-0.7	LAMTOR3	LAMTOR3
+maker-GapFilledScaffold_415-augustus-gene-1.70	NT5DC1	NT5DC1 (1 of 2)
+maker-GapFilledScaffold_248-augustus-gene-1.41	FOXO3	FOXO3
+maker-GapFilledScaffold_6902-snap-gene-0.14	SGK1	SI:CH211-195B13.1
+maker-GapFilledScaffold_248-snap-gene-1.48	LACE1	LACE1B
+maker-GapFilledScaffold_607-snap-gene-2.56	ACE	ACE (7 of 8)
+maker-GapFilledScaffold_1353-augustus-gene-0.27	YY1	YY1B (1 of 2)
+maker-GapFilledScaffold_1707-snap-gene-0.21	POT1	POT1 (3 of 3)
+maker-GapFilledScaffold_1633-snap-gene-0.50	NR3C1	NR3C1 (4 of 4)
+maker-GapFilledScaffold_9464-augustus-gene-0.10	MYT1L	MYT1LA (2 of 2)
+maker-GapFilledScaffold_4697-snap-gene-0.15	SVEP1	RCA2.1 (1 of 3)
+maker-GapFilledScaffold_5996-snap-gene-0.27	GHSR	GHSR
+maker-GapFilledScaffold_11-snap-gene-0.5	CCDC88C	CCDC88B (2 of 2)
+maker-GapFilledScaffold_4262-augustus-gene-0.41	NBEA	NBEA (4 of 5)
+maker-GapFilledScaffold_1361-augustus-gene-0.38	C7ORF50	C7ORF50
+maker-GapFilledScaffold_225-augustus-gene-0.13	GH1	SMTLB
+snap_masked-GapFilledScaffold_9-processed-gene-4.15	KCTD1	KCTD1 (3 of 4)
+maker-GapFilledScaffold_1360-augustus-gene-0.32	GPX1	GPX1B
+maker-GapFilledScaffold_4240-snap-gene-0.18	CLSTN2	CLSTN2 (1 of 4)
+maker-GapFilledScaffold_104-augustus-gene-4.27	GPC6	GPC6 (1 of 2)
+maker-GapFilledScaffold_2607-snap-gene-0.18	MKL1	MKL1B
+maker-GapFilledScaffold_3757-snap-gene-0.15	NBEA	NBEAB
+maker-GapFilledScaffold_2272-snap-gene-0.25	PPARGC1A	PPARGC1A
+maker-GapFilledScaffold_1413-snap-gene-0.53	TRIM25	TRIM25 (5 of 8)
+maker-GapFilledScaffold_3757-snap-gene-0.16	NBEA	NBEA (1 of 5)
+maker-GapFilledScaffold_4639-snap-gene-0.19	CSMD3	CSMD3 (12 of 22)
+maker-GapFilledScaffold_9754-augustus-gene-0.8	CYP19A1	CYP19A1A
+maker-GapFilledScaffold_4675-augustus-gene-0.11	CTNND2	CTNND2B (1 of 3)
+maker-GapFilledScaffold_5091-snap-gene-0.19	TSC1	TSC1B (2 of 2)
+maker-GapFilledScaffold_104-snap-gene-3.32	GPC6	GPC6 (2 of 2)
+maker-GapFilledScaffold_201-augustus-gene-2.35	C12ORF44	ZGC:123177
+augustus_masked-GapFilledScaffold_1850-processed-gene-0.9	MSTN	MSTN
+maker-GapFilledScaffold_1715-augustus-gene-0.44	PIK3CA	PIK3CA (4 of 4)
+maker-GapFilledScaffold_1161-augustus-gene-0.27	TNF	TNFB (3 of 3)
+maker-GapFilledScaffold_3055-snap-gene-0.34	RRAGC	RRAGC
+snap_masked-GapFilledScaffold_349-processed-gene-1.32	PGPEP1	PGPEP1 (3 of 3)
+maker-GapFilledScaffold_90-augustus-gene-0.27	DOCK2	DOCK2 (5 of 5)
+maker-GapFilledScaffold_4231-augustus-gene-0.9	CTNND2	CTNND2 (3 of 3)
+maker-GapFilledScaffold_2199-snap-gene-1.25	GPC6	ZGC:171629
+maker-GapFilledScaffold_1358-augustus-gene-1.45	SEMA6A	SEMA6A (2 of 2)
+maker-GapFilledScaffold_7936-augustus-gene-0.7	KIF13B	KIF13BA (2 of 2)
+maker-GapFilledScaffold_2905-augustus-gene-0.35	PLEKHA7	PLEKHA7B
+maker-GapFilledScaffold_349-augustus-gene-1.37	IGF1R	IGF1R (1 of 2)
+maker-GapFilledScaffold_13-snap-gene-0.13	IL12A	IL12A (1 of 2)
+maker-GapFilledScaffold_1527-snap-gene-0.36	ATRIP	ATRIP
+maker-GapFilledScaffold_6552-snap-gene-0.16	FAM19A5	FAM19A5 (3 of 4)
+augustus_masked-GapFilledScaffold_90-processed-gene-2.20	PPP2R2C	PPP2R2C (2 of 3)
+maker-GapFilledScaffold_4130-augustus-gene-0.40	PPP2R2C	PPP2R2C (3 of 3)
+maker-GapFilledScaffold_3238-augustus-gene-0.22	AKT1S1	AKT1S1
+maker-GapFilledScaffold_15770-augustus-gene-0.3	ACE	ACE (6 of 8)
+maker-GapFilledScaffold_1547-snap-gene-0.39	RHOA	RHOC
+maker-GapFilledScaffold_6710-augustus-gene-0.8	ACE	ACE (3 of 8)
+augustus_masked-GapFilledScaffold_3059-processed-gene-0.6	DCPS	DCPS
+maker-GapFilledScaffold_4498-augustus-gene-0.20	CHST11	CHST11 (2 of 3)
+maker-GapFilledScaffold_4022-augustus-gene-0.31	EGFR	EGFR (2 of 2)
+maker-GapFilledScaffold_245-augustus-gene-1.37	ZBTB20	ZBTB20 (1 of 2)
+maker-GapFilledScaffold_136-augustus-gene-1.11	TOX	TOX
+maker-GapFilledScaffold_11100-augustus-gene-0.5	CSMD3	CSMD3 (19 of 22)
+maker-GapFilledScaffold_743-snap-gene-1.36	APBB2	APBB2B
+maker-GapFilledScaffold_5926-snap-gene-0.7	CSMD3	CSMD3 (18 of 22)
+augustus_masked-GapFilledScaffold_7384-processed-gene-0.2	PPP2R2C	PPP2R2C (1 of 3)
+maker-GapFilledScaffold_2268-snap-gene-0.37	CDK14	CDK14 (2 of 3)
+maker-GapFilledScaffold_511-augustus-gene-1.40	PRKCA	PRKCA (1 of 2)
+maker-GapFilledScaffold_1566-augustus-gene-0.28	CSMD3	CSMD3 (20 of 22)
+maker-GapFilledScaffold_1763-snap-gene-0.45	CAMTA1	CAMTA1 (3 of 3)
+maker-GapFilledScaffold_7946-augustus-gene-0.5	ASIC2	ASIC2 (6 of 6)
+maker-GapFilledScaffold_65-augustus-gene-1.20	CTNNA2	CTNNA2 (3 of 3)
+maker-GapFilledScaffold_8645-snap-gene-0.7	GHRHR	GHRHR
+maker-GapFilledScaffold_223-augustus-gene-0.9	ADA	ADA (2 of 2)
+augustus_masked-GapFilledScaffold_345-processed-gene-1.12	IRS2	IRS2
+maker-GapFilledScaffold_1144-snap-gene-0.50	ADARB2	ADARB2 (2 of 3)
+maker-GapFilledScaffold_2969-snap-gene-0.26	SLC4A4	SLC4A4 (3 of 3)
+augustus_masked-GapFilledScaffold_583-processed-gene-0.13	WWOX	WWOX (2 of 2)
+maker-GapFilledScaffold_13967-snap-gene-0.4	DEPTOR	DEPTOR (3 of 3)
+augustus_masked-GapFilledScaffold_5535-processed-gene-0.4	MEFV	ERMAP
+maker-GapFilledScaffold_7105-augustus-gene-0.16	BTNL2	BTNL2
+maker-GapFilledScaffold_1145-snap-gene-0.39	HPCAL1	NCALD
+maker-GapFilledScaffold_5968-snap-gene-0.9	SLC4A4	SLC4A4 (1 of 3)
+augustus_masked-GapFilledScaffold_3634-processed-gene-0.5	HRAS	KRAS (2 of 2)
+maker-GapFilledScaffold_3341-augustus-gene-0.27	APOA1	APOA1
+maker-GapFilledScaffold_791-snap-gene-0.55	RHEB	RHEB
+maker-GapFilledScaffold_69-snap-gene-1.28	RUNX3	RUNX3
+maker-GapFilledScaffold_347-snap-gene-1.31	ASIC2	ASIC2 (1 of 6)
+maker-GapFilledScaffold_3144-augustus-gene-0.38	CCDC85A	CCDC85A
+maker-GapFilledScaffold_989-snap-gene-0.53	HMOX1	HMOX1 (2 of 2)
+maker-GapFilledScaffold_1164-augustus-gene-0.25	DOCK2	DOCK2 (4 of 5)
+maker-GapFilledScaffold_13372-augustus-gene-0.3	CAMTA1	CAMTA1 (2 of 3)
+maker-GapFilledScaffold_507-augustus-gene-1.43	EBF3	EBF3 (3 of 10)
+maker-GapFilledScaffold_3025-augustus-gene-0.36	XRCC5	XRCC5
+maker-GapFilledScaffold_1841-snap-gene-0.23	TSHR	TSHR (2 of 2)
+augustus_masked-GapFilledScaffold_4746-processed-gene-0.8	SLC9A3R2	SLC9A3R1 (2 of 3)
+maker-GapFilledScaffold_507-augustus-gene-1.47	EBF3	EBF3 (4 of 10)
+snap_masked-GapFilledScaffold_2672-processed-gene-0.14	PKNOX2	
+maker-GapFilledScaffold_5602-snap-gene-0.13	ITGB3	ITGB3B
+maker-GapFilledScaffold_1164-augustus-gene-0.26	DOCK2	DOCK2 (1 of 5)
+maker-GapFilledScaffold_507-augustus-gene-1.45	EBF3	EBF3 (8 of 10)
+maker-GapFilledScaffold_1784-snap-gene-0.38	GPC6	GPC1B (1 of 2)
+augustus_masked-GapFilledScaffold_2672-processed-gene-0.6	PKNOX2	PKNOX2
+maker-GapFilledScaffold_7903-snap-gene-0.5	RPTOR	RPTOR (3 of 5)
+maker-GapFilledScaffold_1711-snap-gene-1.47	DEPTOR	DEPTOR (2 of 3)
+maker-GapFilledScaffold_946-augustus-gene-2.34	RAD23B	RAD23B
+maker-GapFilledScaffold_762-augustus-gene-1.21	YWHAG	YWHAG (2 of 2)
+augustus_masked-GapFilledScaffold_1462-processed-gene-0.9	TMEM151B	SI:CH73-387G8.1
+maker-GapFilledScaffold_25-snap-gene-4.37	SUMF1	SUMF1
+maker-GapFilledScaffold_1462-snap-gene-0.32	FOXO3	SI:CH211-206A7.2
+augustus_masked-GapFilledScaffold_840-processed-gene-1.44	LMNA	LMNA (1 of 3)
+maker-GapFilledScaffold_840-snap-gene-1.112	TOMM40	TOMM40 (1 of 2)
+maker-GapFilledScaffold_10043-snap-gene-0.5	NBEA	NBEAA (3 of 5)
+maker-GapFilledScaffold_840-snap-gene-1.104	APOA4	APOA4 (1 of 3)
+augustus_masked-GapFilledScaffold_61-processed-gene-2.11	CACNA1C	CACNA1C
+maker-GapFilledScaffold_10646-snap-gene-0.7	CTNND2	CTNND2A (1 of 2)

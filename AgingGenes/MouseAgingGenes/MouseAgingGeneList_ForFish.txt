@@ -1,0 +1,142 @@
+augustus_masked-GapFilledScaffold_1355-processed-gene-3.12-mRNA-1	CEBPB	Increase	CEBPB
+maker-GapFilledScaffold_3030-snap-gene-0.20-mRNA-1	MGAT5	Decrease	MGAT5 (1 of 3)
+maker-GapFilledScaffold_662-augustus-gene-0.44-mRNA-1	TPP2	Decrease	TPP2
+snap_masked-GapFilledScaffold_369-processed-gene-1.14-mRNA-1	AGTR1A	Increase	AGTR1B
+augustus_masked-GapFilledScaffold_8125-processed-gene-0.2-mRNA-1	MIF	Increase	MIF
+maker-GapFilledScaffold_1686-snap-gene-0.33-mRNA-1	IRS1	Increase	IRS1 (2 of 2)
+augustus_masked-GapFilledScaffold_206-processed-gene-1.22-mRNA-1	JUND	Decrease	JUND
+maker-GapFilledScaffold_118-augustus-gene-2.24-mRNA-1	MSH2	Decrease	MSH2 (2 of 3)
+maker-GapFilledScaffold_5205-snap-gene-0.34-mRNA-1	RAE1	Decrease	RAE1
+maker-GapFilledScaffold_3178-snap-gene-0.18-mRNA-1	TRP63	Decrease	TP63 (2 of 2)
+maker-GapFilledScaffold_3562-augustus-gene-0.31-mRNA-1	APOE	Decrease	APOEB
+augustus_masked-GapFilledScaffold_1819-processed-gene-0.8-mRNA-1	PPM1D	Decrease	PPM1DA
+maker-GapFilledScaffold_2000-augustus-gene-0.38-mRNA-1	GH	Decrease	GH1
+maker-GapFilledScaffold_339-snap-gene-2.23-mRNA-1	EFEMP1	Decrease	EFEMP1 (1 of 2)
+augustus_masked-GapFilledScaffold_2731-processed-gene-0.16-mRNA-1	GSTA4	Increase	ZGC:173961 (1 of 2)
+maker-GapFilledScaffold_5821-augustus-gene-0.17-mRNA-1	CDK7	Decrease	CDK7 (1 of 2)
+maker-GapFilledScaffold_1201-snap-gene-0.35-mRNA-1	GRN	Decrease	GRNB
+maker-GapFilledScaffold_1111-augustus-gene-0.46-mRNA-1	NUDT1	Increase	NUDT1
+maker-GapFilledScaffold_3821-snap-gene-0.18-mRNA-1	PAPPA	Increase	PAPPAA (1 of 4)
+maker-GapFilledScaffold_4473-snap-gene-0.29-mRNA-1	HELLS	Decrease	HELLS
+maker-GapFilledScaffold_3821-snap-gene-0.17-mRNA-1	PAPPA	Increase	PAPPAA (3 of 4)
+maker-GapFilledScaffold_3471-snap-gene-0.31-mRNA-1	BRCA1	Decrease	BRCA1
+maker-GapFilledScaffold_761-snap-gene-0.38-mRNA-1	PRKAR2B	Increase	PRKAR2B
+maker-GapFilledScaffold_2053-augustus-gene-0.33-mRNA-1	TOP3B	Decrease	TOP3B
+augustus_masked-GapFilledScaffold_4696-processed-gene-0.5-mRNA-1	SHC1	Increase	SHC1
+maker-GapFilledScaffold_5270-augustus-gene-0.9-mRNA-1	ATM	Decrease	ATM (2 of 2)
+maker-GapFilledScaffold_2354-snap-gene-0.37-mRNA-1	ZMPSTE24	Decrease	ZMPSTE24
+maker-GapFilledScaffold_9800-augustus-gene-0.5-mRNA-1	DMD	Decrease	DMD (1 of 3)
+maker-GapFilledScaffold_521-augustus-gene-1.36-mRNA-1	PPM1D	Decrease	PPM1D
+maker-GapFilledScaffold_3599-augustus-gene-0.15-mRNA-1	SQSTM1	Decrease	SQSTM1
+maker-GapFilledScaffold_660-snap-gene-0.63-mRNA-1	POLG	Decrease	POLG
+maker-GapFilledScaffold_1800-augustus-gene-0.23-mRNA-1	PRKAR2B	Increase	PRKAR2AA
+maker-GapFilledScaffold_7516-snap-gene-0.16-mRNA-1	GHR	Increase	GHR (4 of 4)
+maker-GapFilledScaffold_2136-augustus-gene-1.39-mRNA-1	SHC1	Increase	SHC4
+maker-GapFilledScaffold_6692-augustus-gene-0.16-mRNA-1	CAT	Increase	CAT
+maker-GapFilledScaffold_5247-augustus-gene-0.15-mRNA-1	FOXM1	Decrease	FOXM1 (1 of 2)
+maker-GapFilledScaffold_883-augustus-gene-1.71-mRNA-1	GRN	Decrease	GRN
+augustus_masked-GapFilledScaffold_5601-processed-gene-0.13-mRNA-1	PCK1	Increase	PCK2
+augustus_masked-GapFilledScaffold_678-processed-gene-0.9-mRNA-1	HNRNPD	Decrease	HNRNPD
+maker-GapFilledScaffold_1211-augustus-gene-1.44-mRNA-1	IGF1	Increase	IGF1
+maker-GapFilledScaffold_3703-augustus-gene-0.18-mRNA-1	FOXM1	Decrease	FOXM1 (2 of 2)
+augustus_masked-GapFilledScaffold_2248-processed-gene-0.6-mRNA-1	GHR	Increase	GHR (1 of 4)
+maker-GapFilledScaffold_2195-augustus-gene-0.34-mRNA-1	CDKN1A	Increase	CDKN1A (2 of 2)
+maker-GapFilledScaffold_340-snap-gene-1.48-mRNA-1	ADCY5	Increase	ADCY5 (1 of 2)
+maker-GapFilledScaffold_12842-augustus-gene-0.3-mRNA-1	MSH2	Decrease	MSH2 (3 of 3)
+maker-GapFilledScaffold_7772-augustus-gene-0.19-mRNA-1	TOPORS	Decrease	TOPORSA (1 of 2)
+maker-GapFilledScaffold_2802-augustus-gene-0.18-mRNA-1	IRS1	Increase	IRS4
+augustus_masked-GapFilledScaffold_204-processed-gene-1.14-mRNA-1	HTR1B	Decrease	HTR1B (1 of 2)
+maker-GapFilledScaffold_753-augustus-gene-0.55-mRNA-1	SURF1	Increase	SURF1
+maker-GapFilledScaffold_4858-snap-gene-0.17-mRNA-1	PAPPA	Increase	PAPPAA (2 of 4)
+maker-GapFilledScaffold_4477-augustus-gene-0.37-mRNA-1	BUB3	Decrease	BUB3
+augustus_masked-GapFilledScaffold_3383-processed-gene-0.7-mRNA-1	NEIL1	Decrease	NEIL1
+augustus_masked-GapFilledScaffold_141-processed-gene-1.7-mRNA-1	EEF1E1	Decrease	EEF1E1
+maker-GapFilledScaffold_696-snap-gene-0.50-mRNA-1	TERT	Increase	TERT
+maker-GapFilledScaffold_365-augustus-gene-2.25-mRNA-1	NCOR2	Decrease	NCOR2
+maker-GapFilledScaffold_2689-augustus-gene-0.23-mRNA-1	PLAU	Increase	PLAUA
+augustus_masked-GapFilledScaffold_227-processed-gene-1.13-mRNA-1	TXN1	Increase	TXN
+maker-GapFilledScaffold_789-snap-gene-0.47-mRNA-1	AKT1	Increase	AKT1
+maker-GapFilledScaffold_1284-snap-gene-0.42-mRNA-1	FN1	Decrease	FN1 (1 of 2)
+maker-GapFilledScaffold_1461-snap-gene-0.19-mRNA-1	DMD	Decrease	DMD (3 of 3)
+maker-GapFilledScaffold_315-augustus-gene-1.42-mRNA-1	MSRA	Decrease	SI:CH1073-358C10.1
+maker-GapFilledScaffold_2183-augustus-gene-0.21-mRNA-1	CLOCK	Decrease	CLOCK (1 of 2)
+maker-GapFilledScaffold_1808-snap-gene-0.22-mRNA-1	DGAT1	Increase	DGAT1 (1 of 2)
+maker-GapFilledScaffold_1289-augustus-gene-0.33-mRNA-1	MGAT5	Decrease	MGAT5 (2 of 3)
+maker-GapFilledScaffold_6185-snap-gene-0.14-mRNA-1	PAPPA	Increase	PAPPAA (4 of 4)
+maker-GapFilledScaffold_4205-augustus-gene-0.18-mRNA-1	IGF1R	Increase	IGF1R (2 of 2)
+maker-GapFilledScaffold_3540-snap-gene-0.23-mRNA-1	FGF23	Decrease	FGF23 (2 of 2)
+augustus_masked-GapFilledScaffold_1558-processed-gene-0.34-mRNA-1	CEBPA	Increase	CEBPA
+maker-GapFilledScaffold_260-augustus-gene-1.51-mRNA-1	HTT	Increase	HTT
+maker-GapFilledScaffold_6511-snap-gene-0.12-mRNA-1	GRN	Decrease	GRN2
+maker-GapFilledScaffold_60-augustus-gene-0.12-mRNA-1	STUB1	Decrease	STUB1
+maker-GapFilledScaffold_986-snap-gene-0.37-mRNA-1	EFEMP1	Decrease	EFEMP1 (2 of 2)
+maker-GapFilledScaffold_4529-snap-gene-0.24-mRNA-1	RPS6KB1	Increase	RPS6KB1
+augustus_masked-GapFilledScaffold_79-processed-gene-3.9-mRNA-1	KCNA3	Increase	KCNA3 (2 of 3)
+augustus_masked-GapFilledScaffold_2074-processed-gene-0.22-mRNA-1	UCP2	Increase	UCP1
+maker-GapFilledScaffold_2159-snap-gene-0.36-mRNA-1	IRS1	Increase	IRS1 (1 of 2)
+maker-GapFilledScaffold_1569-snap-gene-0.32-mRNA-1	KCNA3	Increase	KCNA3 (1 of 3)
+maker-GapFilledScaffold_2091-snap-gene-0.49-mRNA-1	ERCC2	Decrease	ERCC2
+maker-GapFilledScaffold_1254-augustus-gene-1.62-mRNA-1	HTRA2	Decrease	SI:DKEY-19P15.4
+maker-GapFilledScaffold_6419-augustus-gene-0.14-mRNA-1	POU1F1	Increase	POU1F1
+augustus_masked-GapFilledScaffold_310-processed-gene-1.20-mRNA-1	CHEK2	Decrease	CHEK2
+maker-GapFilledScaffold_5357-augustus-gene-0.13-mRNA-1	ATM	Decrease	ATM (1 of 2)
+augustus_masked-GapFilledScaffold_6529-processed-gene-0.5-mRNA-1	GHR	Increase	GHR (3 of 4)
+maker-GapFilledScaffold_1971-augustus-gene-0.36-mRNA-1	IRS2	Increase	ZGC:56306
+augustus_masked-GapFilledScaffold_1012-processed-gene-1.10-mRNA-1	GHR	Increase	GHR (2 of 4)
+augustus_masked-GapFilledScaffold_7446-processed-gene-0.7-mRNA-1	FGF21	Increase	FGF19
+maker-GapFilledScaffold_4763-augustus-gene-0.11-mRNA-1	DGAT1	Increase	DGAT1B
+augustus_masked-GapFilledScaffold_592-processed-gene-2.18-mRNA-1	TRP63	Decrease	TP53 (2 of 2)
+augustus_masked-GapFilledScaffold_929-processed-gene-0.14-mRNA-1	IRS1	Increase	SI:CH211-284E13.4
+maker-GapFilledScaffold_2177-augustus-gene-0.21-mRNA-1	UCP2	Increase	UCP2
+maker-GapFilledScaffold_799-snap-gene-1.41-mRNA-1	GSK3A	Decrease	ZNF574
+augustus_masked-GapFilledScaffold_627-processed-gene-0.16-mRNA-1	MSRA	Decrease	MSRA
+augustus_masked-GapFilledScaffold_16340-processed-gene-0.1-mRNA-1	JUND	Decrease	ZGC:153924
+augustus_masked-GapFilledScaffold_271-processed-gene-1.9-mRNA-1	INSR	Increase	INSRB
+augustus_masked-GapFilledScaffold_12911-processed-gene-0.1-mRNA-1	LMNA	Decrease	LMNA (2 of 3)
+maker-GapFilledScaffold_2006-augustus-gene-0.39-mRNA-1	ARNTL	Decrease	ARNTL1A
+augustus_masked-GapFilledScaffold_8073-processed-gene-0.5-mRNA-1	SLC13A1	Increase	SLC13A1 (1 of 2)
+maker-GapFilledScaffold_2030-snap-gene-0.26-mRNA-1	FN1	Decrease	FN1 (2 of 2)
+maker-GapFilledScaffold_2951-augustus-gene-0.28-mRNA-1	TRP63	Decrease	TP63 (1 of 2)
+maker-GapFilledScaffold_324-augustus-gene-1.52-mRNA-1	EPS8	Increase	SI:CH211-103A14.4
+maker-GapFilledScaffold_885-augustus-gene-1.45-mRNA-1	LMNA	Decrease	LMNA (3 of 3)
+maker-GapFilledScaffold_3188-snap-gene-0.28-mRNA-1	IKBKB	Increase	IKBKB (1 of 2)
+maker-GapFilledScaffold_11022-snap-gene-0.8-mRNA-1	MSH2	Decrease	MSH2 (1 of 3)
+maker-GapFilledScaffold_4197-snap-gene-0.11-mRNA-1	INSR	Increase	INSRA
+maker-GapFilledScaffold_593-snap-gene-1.43-mRNA-1	MTOR	Increase	MTOR
+maker-GapFilledScaffold_5993-augustus-gene-0.12-mRNA-1	SLC13A1	Increase	SLC13A1 (2 of 2)
+maker-GapFilledScaffold_415-augustus-gene-1.62-mRNA-1	TOPORS	Decrease	TOPORSA (2 of 2)
+maker-GapFilledScaffold_2359-snap-gene-0.33-mRNA-1	ATR	Decrease	ATR
+maker-GapFilledScaffold_225-augustus-gene-0.13-mRNA-1	GH	Decrease	SMTLB
+augustus_masked-GapFilledScaffold_4893-processed-gene-0.7-mRNA-1	EPS8	Increase	EPS8 (2 of 5)
+augustus_masked-GapFilledScaffold_4893-processed-gene-0.8-mRNA-1	EPS8	Increase	EPS8 (3 of 5)
+augustus_masked-GapFilledScaffold_4893-processed-gene-0.6-mRNA-1	EPS8	Increase	EPS8 (5 of 5)
+maker-GapFilledScaffold_7151-augustus-gene-0.18-mRNA-1	TRP63	Decrease	TP53 (1 of 2)
+augustus_masked-GapFilledScaffold_4893-processed-gene-0.9-mRNA-1	EPS8	Increase	EPS8 (1 of 5)
+maker-GapFilledScaffold_4245-augustus-gene-0.17-mRNA-1	TERF2	Decrease	TERF2
+maker-GapFilledScaffold_349-augustus-gene-1.37-mRNA-1	IGF1R	Increase	IGF1R (1 of 2)
+augustus_masked-GapFilledScaffold_1654-processed-gene-0.3-mRNA-1	HTR1B	Decrease	HTR1B (2 of 2)
+augustus_masked-GapFilledScaffold_2127-processed-gene-0.8-mRNA-1	KCNA3	Increase	KCNA3 (3 of 3)
+maker-GapFilledScaffold_4455-snap-gene-0.17-mRNA-1	TRP73	Decrease	TP73
+maker-GapFilledScaffold_1527-augustus-gene-0.31-mRNA-1	PCK1	Increase	PCK1
+maker-GapFilledScaffold_8763-augustus-gene-0.8-mRNA-1	EPS8	Increase	EPS8 (4 of 5)
+augustus_masked-GapFilledScaffold_2395-processed-gene-1.15-mRNA-1	ARNTL	Decrease	ARNTL2
+maker-GapFilledScaffold_7331-augustus-gene-0.16-mRNA-1	CLOCK	Decrease	CLOCK (2 of 2)
+snap_masked-GapFilledScaffold_3414-processed-gene-0.19-mRNA-1	TRP53BP1	Increase	TP53BP1
+maker-GapFilledScaffold_328-augustus-gene-1.46-mRNA-1	DGAT1	Increase	DGAT1 (2 of 2)
+augustus_masked-GapFilledScaffold_6163-processed-gene-0.2-mRNA-1	ARHGAP1	Decrease	ARHGAP1
+maker-GapFilledScaffold_4536-augustus-gene-0.17-mRNA-1	MCM2	Decrease	MCM2
+maker-GapFilledScaffold_4180-augustus-gene-0.22-mRNA-1	CDK7	Decrease	CDK7 (2 of 2)
+augustus_masked-GapFilledScaffold_5356-processed-gene-0.2-mRNA-1	ADCY5	Increase	ADCY5 (2 of 2)
+maker-GapFilledScaffold_8645-snap-gene-0.7-mRNA-1	GHRHR	Increase	GHRHR
+augustus_masked-GapFilledScaffold_2415-processed-gene-0.5-mRNA-1	XPA	Decrease	XPA
+augustus_masked-GapFilledScaffold_345-processed-gene-1.12-mRNA-1	IRS2	Increase	IRS2
+snap_masked-GapFilledScaffold_5726-processed-gene-0.5-mRNA-1	MGAT5	Decrease	MGAT5 (3 of 3)
+maker-GapFilledScaffold_497-augustus-gene-1.48-mRNA-1	CASP2	Decrease	CASP2
+maker-GapFilledScaffold_1387-snap-gene-1.53-mRNA-1	DMD	Decrease	DMD (2 of 3)
+maker-GapFilledScaffold_3025-augustus-gene-0.36-mRNA-1	XRCC5	Decrease	XRCC5
+maker-GapFilledScaffold_1051-augustus-gene-0.39-mRNA-1	CAV1	Decrease	CAV1
+maker-GapFilledScaffold_6200-augustus-gene-0.8-mRNA-1	BAX	Increase	BAX
+augustus_masked-GapFilledScaffold_2349-processed-gene-3.17-mRNA-1	GSTA4	Increase	ZGC:173961 (2 of 2)
+augustus_masked-GapFilledScaffold_840-processed-gene-1.44-mRNA-1	LMNA	Decrease	LMNA (1 of 3)
+maker-GapFilledScaffold_7589-augustus-gene-0.7-mRNA-1	ERCC4	Decrease	ERCC4
+maker-GapFilledScaffold_448-augustus-gene-0.15-mRNA-1	IKBKB	Increase	IKBKB (2 of 2)

@@ -1,0 +1,1388 @@
+LG1	0	1	GapFilledScaffold_9206
+LG1	1	2	GapFilledScaffold_9069
+LG1	2	3	GapFilledScaffold_9206
+LG1	3	4	GapFilledScaffold_415
+LG1	4	5	GapFilledScaffold_415
+LG1	5	6	
+LG1	6	7	GapFilledScaffold_1715
+LG1	7	8	
+LG1	9	10	
+LG1	11	12	
+LG1	13	14	GapFilledScaffold_6745
+LG1	39	40	GapFilledScaffold_3689
+LG1	40	41	GapFilledScaffold_4329
+LG1	41	42	GapFilledScaffold_8800
+LG1	43	44	GapFilledScaffold_699
+LG1	44	45	
+LG1	45	46	
+LG1	47	48	
+LG1	48	49	GapFilledScaffold_3658
+LG1	53	54	GapFilledScaffold_2883
+LG1	54	55	GapFilledScaffold_2883
+LG1	55	56	GapFilledScaffold_3355
+LG1	56	57	GapFilledScaffold_1540
+LG1	58	59	GapFilledScaffold_3258
+LG1	59	60	GapFilledScaffold_659
+LG1	64	65	GapFilledScaffold_5170
+LG1	65	66	GapFilledScaffold_2590
+LG1	67	68	GapFilledScaffold_1416
+LG1	68	69	GapFilledScaffold_1985
+LG1	69	70	GapFilledScaffold_1985
+LG1	101	102	
+LG1	102	103	
+LG1	104	105	GapFilledScaffold_1897
+LG1	105	106	GapFilledScaffold_302
+LG1	106	107	GapFilledScaffold_964
+LG1	107	108	GapFilledScaffold_964
+LG1	108	109	GapFilledScaffold_364
+LG1	131	132	
+LG1	133	134	GapFilledScaffold_1273
+LG1	135	136	GapFilledScaffold_3947
+LG1	136	137	GapFilledScaffold_907
+LG1	137	138	GapFilledScaffold_3138
+LG1	138	139	GapFilledScaffold_1167
+LG1	139	140	GapFilledScaffold_6647
+LG1	152	153	
+LG1	188	189	GapFilledScaffold_803
+LG1	200	201	
+LG1	201	202	GapFilledScaffold_1314
+LG1	202	203	GapFilledScaffold_7243
+LG1	203	204	GapFilledScaffold_5528
+LG1	204	205	GapFilledScaffold_4558
+LG1	205	206	GapFilledScaffold_3369
+LG1	206	207	GapFilledScaffold_7465
+LG1	207	208	GapFilledScaffold_1493
+LG1	208	209	GapFilledScaffold_4274
+LG1	209	210	GapFilledScaffold_276
+LG1	210	211	GapFilledScaffold_276
+LG1	211	212	GapFilledScaffold_80
+LG1	213	214	GapFilledScaffold_6775
+LG1	214	215	GapFilledScaffold_493
+LG1	215	216	GapFilledScaffold_6681
+LG1	216	217	GapFilledScaffold_1107
+LG1	217	218	
+LG1	219	220	GapFilledScaffold_1654
+LG1	220	221	GapFilledScaffold_1002
+LG1	223	224	GapFilledScaffold_8707
+LG1	227	228	
+LG1	229	230	GapFilledScaffold_5013
+LG1	230	231	GapFilledScaffold_3036
+LG1	231	232	GapFilledScaffold_886
+LG1	232	233	GapFilledScaffold_3107
+LG1	234	235	GapFilledScaffold_4959
+LG1	236	237	GapFilledScaffold_33
+LG1	240	241	GapFilledScaffold_2072
+LG1	241	242	
+LG1	243	244	GapFilledScaffold_588
+LG1	245	246	
+LG1	250	251	GapFilledScaffold_99
+LG1	251	252	GapFilledScaffold_36
+LG1	252	253	GapFilledScaffold_11879
+LG1	253	254	GapFilledScaffold_2657
+LG1	259	260	GapFilledScaffold_813
+LG1	260	261	GapFilledScaffold_1299
+LG1	262	263	
+LG1	263	264	GapFilledScaffold_2839
+LG1	264	265	GapFilledScaffold_2591
+LG1	265	266	GapFilledScaffold_875
+LG2	19	20	GapFilledScaffold_4838
+LG2	32	33	GapFilledScaffold_7206
+LG2	35	36	GapFilledScaffold_6965
+LG2	36	37	GapFilledScaffold_6820
+LG2	40	41	GapFilledScaffold_716
+LG2	41	42	
+LG2	42	43	
+LG2	45	46	GapFilledScaffold_1093
+LG2	50	51	GapFilledScaffold_1597
+LG2	51	52	
+LG2	52	53	GapFilledScaffold_6889
+LG2	56	57	GapFilledScaffold_43
+LG2	57	58	GapFilledScaffold_655
+LG2	58	59	
+LG2	60	61	GapFilledScaffold_560
+LG2	61	62	GapFilledScaffold_4386
+LG2	63	64	GapFilledScaffold_2240
+LG2	64	65	
+LG2	65	66	GapFilledScaffold_553
+LG2	66	67	GapFilledScaffold_4663
+LG2	67	68	GapFilledScaffold_3733
+LG2	68	69	GapFilledScaffold_332
+LG2	69	70	GapFilledScaffold_489
+LG2	70	71	GapFilledScaffold_6166
+LG2	71	72	
+LG2	72	73	GapFilledScaffold_2
+LG2	73	74	GapFilledScaffold_61
+LG2	74	75	GapFilledScaffold_61
+LG2	75	76	GapFilledScaffold_867
+LG2	76	77	GapFilledScaffold_2627
+LG2	78	79	
+LG2	79	80	GapFilledScaffold_202
+LG2	82	83	GapFilledScaffold_832
+LG2	83	84	GapFilledScaffold_567
+LG2	84	85	
+LG2	85	86	
+LG2	86	87	GapFilledScaffold_411
+LG2	87	88	GapFilledScaffold_2231
+LG2	88	89	GapFilledScaffold_5058
+LG2	89	90	GapFilledScaffold_1247
+LG2	90	91	GapFilledScaffold_9438
+LG2	91	92	
+LG2	92	93	GapFilledScaffold_4637
+LG2	94	95	GapFilledScaffold_2119
+LG2	95	96	
+LG2	96	97	GapFilledScaffold_9803
+LG2	97	98	GapFilledScaffold_15698
+LG2	98	99	GapFilledScaffold_1327
+LG2	99	100	GapFilledScaffold_2718
+LG2	100	101	GapFilledScaffold_9798
+LG2	101	102	GapFilledScaffold_6638
+LG2	102	103	GapFilledScaffold_1356
+LG2	145	146	
+LG2	146	147	GapFilledScaffold_1593
+LG2	147	148	GapFilledScaffold_2238
+LG2	148	149	GapFilledScaffold_4594
+LG2	149	150	GapFilledScaffold_2258
+LG2	151	152	GapFilledScaffold_215
+LG2	152	153	GapFilledScaffold_3299
+LG2	153	154	GapFilledScaffold_7355
+LG2	154	155	GapFilledScaffold_2902
+LG2	155	156	GapFilledScaffold_795
+LG2	156	157	GapFilledScaffold_143
+LG2	157	158	GapFilledScaffold_786
+LG2	158	159	GapFilledScaffold_635
+LG2	159	160	GapFilledScaffold_997
+LG2	161	162	GapFilledScaffold_1318
+LG2	162	163	GapFilledScaffold_2035
+LG2	163	164	GapFilledScaffold_2013
+LG2	164	165	GapFilledScaffold_1392
+LG2	165	166	GapFilledScaffold_2340
+LG2	166	167	GapFilledScaffold_4735
+LG2	167	168	GapFilledScaffold_661
+LG2	169	170	GapFilledScaffold_1458
+LG2	170	171	GapFilledScaffold_7679
+LG2	171	172	
+LG2	172	173	GapFilledScaffold_10847
+LG2	173	174	
+LG2	175	176	GapFilledScaffold_512
+LG2	176	177	GapFilledScaffold_918
+LG2	177	178	GapFilledScaffold_4923
+LG2	179	180	GapFilledScaffold_1735
+LG2	181	182	GapFilledScaffold_3427
+LG2	182	183	GapFilledScaffold_4846
+LG2	183	184	GapFilledScaffold_4811
+LG2	202	203	
+LG2	203	204	
+LG2	204	205	GapFilledScaffold_1725
+LG2	221	222	
+LG2	243	244	GapFilledScaffold_5122
+LG2	247	248	GapFilledScaffold_5980
+LG2	251	252	GapFilledScaffold_2379
+LG2	252	253	GapFilledScaffold_2379
+LG2	253	254	GapFilledScaffold_1979
+LG2	257	258	GapFilledScaffold_7715
+LG2	259	260	
+LG2	261	262	GapFilledScaffold_3569
+LG2	277	278	GapFilledScaffold_3346
+LG2	280	281	GapFilledScaffold_1049
+LG2	281	282	GapFilledScaffold_800
+LG3	0	1	GapFilledScaffold_3763
+LG3	1	2	GapFilledScaffold_4265
+LG3	5	6	GapFilledScaffold_7587
+LG3	7	8	GapFilledScaffold_3051
+LG3	8	9	GapFilledScaffold_221
+LG3	13	14	GapFilledScaffold_2513
+LG3	14	15	GapFilledScaffold_2150
+LG3	15	16	
+LG3	23	24	GapFilledScaffold_4399
+LG3	24	25	GapFilledScaffold_2974
+LG3	25	26	GapFilledScaffold_1209
+LG3	28	29	GapFilledScaffold_955
+LG3	29	30	GapFilledScaffold_5693
+LG3	32	33	
+LG3	33	34	GapFilledScaffold_1973
+LG3	34	35	GapFilledScaffold_7559
+LG3	36	37	GapFilledScaffold_15298
+LG3	37	38	
+LG3	39	40	
+LG3	40	41	GapFilledScaffold_4827
+LG3	41	42	GapFilledScaffold_3238
+LG3	43	44	GapFilledScaffold_3160
+LG3	46	47	GapFilledScaffold_1739
+LG3	47	48	GapFilledScaffold_1739
+LG3	48	49	GapFilledScaffold_3405
+LG3	49	50	GapFilledScaffold_3045
+LG3	50	51	GapFilledScaffold_4066
+LG3	51	52	
+LG3	52	53	GapFilledScaffold_3769
+LG3	53	54	GapFilledScaffold_1840
+LG3	68	69	GapFilledScaffold_5099
+LG3	69	70	GapFilledScaffold_4616
+LG3	70	71	GapFilledScaffold_9083
+LG3	71	72	GapFilledScaffold_7086
+LG3	75	76	GapFilledScaffold_174
+LG3	76	77	GapFilledScaffold_5892
+LG3	77	78	GapFilledScaffold_6146
+LG3	78	79	GapFilledScaffold_4251
+LG3	79	80	GapFilledScaffold_8565
+LG3	82	83	GapFilledScaffold_174
+LG3	83	84	GapFilledScaffold_5568
+LG3	84	85	GapFilledScaffold_7969
+LG3	85	86	GapFilledScaffold_1740
+LG3	109	110	GapFilledScaffold_5457
+LG3	110	111	GapFilledScaffold_782
+LG3	111	112	GapFilledScaffold_3902
+LG3	112	113	
+LG3	113	114	GapFilledScaffold_1463
+LG3	114	115	GapFilledScaffold_1161
+LG3	115	116	GapFilledScaffold_2193
+LG3	117	118	GapFilledScaffold_2207
+LG3	118	119	
+LG3	120	121	GapFilledScaffold_569
+LG3	121	122	GapFilledScaffold_4036
+LG3	122	123	GapFilledScaffold_11114
+LG3	123	124	
+LG3	124	125	
+LG3	125	126	GapFilledScaffold_4061
+LG3	175	176	GapFilledScaffold_1368
+LG3	180	181	
+LG3	182	183	
+LG3	189	190	GapFilledScaffold_1432
+LG3	191	192	GapFilledScaffold_1018
+LG3	192	193	GapFilledScaffold_1459
+LG3	193	194	
+LG3	195	196	GapFilledScaffold_263
+LG3	196	197	GapFilledScaffold_799
+LG3	198	199	
+LG3	205	206	GapFilledScaffold_240
+LG3	207	208	GapFilledScaffold_3563
+LG3	208	209	GapFilledScaffold_1938
+LG3	209	210	GapFilledScaffold_6957
+LG3	210	211	GapFilledScaffold_1210
+LG3	215	216	GapFilledScaffold_5474
+LG3	219	220	
+LG3	220	221	GapFilledScaffold_1892
+LG3	222	223	GapFilledScaffold_4696
+LG3	223	224	GapFilledScaffold_525
+LG3	225	226	
+LG3	227	228	GapFilledScaffold_819
+LG3	228	229	
+LG4	8	9	GapFilledScaffold_6180
+LG4	15	16	
+LG4	16	17	GapFilledScaffold_2176
+LG4	17	18	GapFilledScaffold_894
+LG4	18	19	
+LG4	21	22	GapFilledScaffold_328
+LG4	22	23	
+LG4	25	26	
+LG4	26	27	GapFilledScaffold_6791
+LG4	28	29	GapFilledScaffold_4151
+LG4	29	30	GapFilledScaffold_4151
+LG4	30	31	GapFilledScaffold_471
+LG4	31	32	
+LG4	32	33	
+LG4	42	43	GapFilledScaffold_3598
+LG4	44	45	
+LG4	50	51	GapFilledScaffold_1944
+LG4	51	52	GapFilledScaffold_2394
+LG4	54	55	
+LG4	55	56	GapFilledScaffold_413
+LG4	56	57	GapFilledScaffold_1663
+LG4	57	58	GapFilledScaffold_2766
+LG4	58	59	GapFilledScaffold_2766
+LG4	60	61	GapFilledScaffold_316
+LG4	61	62	
+LG4	63	64	GapFilledScaffold_4406
+LG4	64	65	
+LG4	65	66	GapFilledScaffold_4477
+LG4	89	90	
+LG4	90	91	GapFilledScaffold_968
+LG4	91	92	GapFilledScaffold_259
+LG4	94	95	GapFilledScaffold_956
+LG4	95	96	GapFilledScaffold_179
+LG4	96	97	GapFilledScaffold_452
+LG4	97	98	GapFilledScaffold_660
+LG4	131	132	GapFilledScaffold_498
+LG4	132	133	GapFilledScaffold_1165
+LG4	133	134	GapFilledScaffold_583
+LG4	134	135	GapFilledScaffold_498
+LG4	135	136	GapFilledScaffold_257
+LG4	136	137	GapFilledScaffold_40
+LG4	137	138	GapFilledScaffold_2725
+LG4	138	139	
+LG4	139	140	
+LG4	140	141	GapFilledScaffold_9589
+LG4	141	142	GapFilledScaffold_5001
+LG4	142	143	
+LG4	143	144	GapFilledScaffold_4275
+LG4	145	146	GapFilledScaffold_1294
+LG4	146	147	GapFilledScaffold_124
+LG4	147	148	GapFilledScaffold_3232
+LG4	149	150	GapFilledScaffold_3082
+LG4	150	151	GapFilledScaffold_3358
+LG4	152	153	GapFilledScaffold_3412
+LG4	154	155	GapFilledScaffold_5185
+LG4	155	156	GapFilledScaffold_1265
+LG4	156	157	GapFilledScaffold_1265
+LG4	160	161	GapFilledScaffold_441
+LG4	162	163	GapFilledScaffold_441
+LG4	165	166	GapFilledScaffold_6607
+LG4	175	176	GapFilledScaffold_6432
+LG4	185	186	GapFilledScaffold_2415
+LG4	186	187	GapFilledScaffold_3507
+LG4	189	190	GapFilledScaffold_4518
+LG4	190	191	GapFilledScaffold_2587
+LG4	196	197	
+LG4	197	198	
+LG4	198	199	GapFilledScaffold_2098
+LG5	1	2	GapFilledScaffold_3692
+LG5	2	3	GapFilledScaffold_2565
+LG5	3	4	GapFilledScaffold_7341
+LG5	4	5	GapFilledScaffold_6216
+LG5	10	11	
+LG5	29	30	GapFilledScaffold_6772
+LG5	31	32	GapFilledScaffold_3457
+LG5	32	33	
+LG5	34	35	GapFilledScaffold_3554
+LG5	36	37	
+LG5	39	40	GapFilledScaffold_8376
+LG5	40	41	
+LG5	41	42	GapFilledScaffold_3949
+LG5	44	45	GapFilledScaffold_7298
+LG5	46	47	GapFilledScaffold_87
+LG5	47	48	GapFilledScaffold_87
+LG5	48	49	GapFilledScaffold_2836
+LG5	49	50	GapFilledScaffold_7371
+LG5	51	52	GapFilledScaffold_1617
+LG5	53	54	GapFilledScaffold_186
+LG5	54	55	GapFilledScaffold_2152
+LG5	55	56	GapFilledScaffold_186
+LG5	56	57	GapFilledScaffold_6846
+LG5	59	60	GapFilledScaffold_2267
+LG5	60	61	GapFilledScaffold_740
+LG5	61	62	GapFilledScaffold_1185
+LG5	62	63	GapFilledScaffold_9693
+LG5	63	64	
+LG5	68	69	GapFilledScaffold_2566
+LG5	74	75	
+LG5	75	76	GapFilledScaffold_81
+LG5	76	77	GapFilledScaffold_81
+LG5	77	78	
+LG5	78	79	GapFilledScaffold_2085
+LG5	79	80	
+LG5	80	81	GapFilledScaffold_2257
+LG5	81	82	GapFilledScaffold_7136
+LG5	82	83	GapFilledScaffold_3796
+LG5	83	84	
+LG5	84	85	GapFilledScaffold_1824
+LG5	85	86	GapFilledScaffold_74
+LG5	86	87	GapFilledScaffold_1407
+LG5	98	99	
+LG5	99	100	GapFilledScaffold_1623
+LG5	100	101	
+LG5	101	102	
+LG5	102	103	GapFilledScaffold_654
+LG5	103	104	GapFilledScaffold_7696
+LG5	106	107	GapFilledScaffold_105
+LG5	107	108	GapFilledScaffold_1797
+LG5	108	109	GapFilledScaffold_6255
+LG5	109	110	GapFilledScaffold_1724
+LG5	110	111	GapFilledScaffold_578
+LG5	112	113	GapFilledScaffold_6438
+LG5	113	114	GapFilledScaffold_2157
+LG5	115	116	GapFilledScaffold_645
+LG5	116	117	
+LG5	117	118	GapFilledScaffold_5701
+LG5	118	119	
+LG5	119	120	
+LG5	120	121	GapFilledScaffold_1932
+LG5	125	126	
+LG5	134	135	
+LG5	144	145	
+LG5	145	146	GapFilledScaffold_673
+LG5	148	149	GapFilledScaffold_3764
+LG5	174	175	GapFilledScaffold_3152
+LG5	175	176	GapFilledScaffold_4612
+LG5	176	177	GapFilledScaffold_9173
+LG5	177	178	GapFilledScaffold_5642
+LG5	179	180	GapFilledScaffold_2712
+LG5	180	181	GapFilledScaffold_5210
+LG5	181	182	GapFilledScaffold_8142
+LG5	183	184	
+LG5	184	185	
+LG5	185	186	GapFilledScaffold_5718
+LG6	0	1	GapFilledScaffold_3883
+LG6	1	2	GapFilledScaffold_3883
+LG6	2	3	GapFilledScaffold_235
+LG6	4	5	
+LG6	5	6	
+LG6	12	13	GapFilledScaffold_1033
+LG6	13	14	GapFilledScaffold_2450
+LG6	15	16	GapFilledScaffold_2450
+LG6	19	20	GapFilledScaffold_7701
+LG6	22	23	
+LG6	24	25	GapFilledScaffold_3922
+LG6	28	29	GapFilledScaffold_6269
+LG6	33	34	GapFilledScaffold_7028
+LG6	48	49	GapFilledScaffold_3064
+LG6	49	50	GapFilledScaffold_3923
+LG6	52	53	GapFilledScaffold_1303
+LG6	53	54	GapFilledScaffold_1965
+LG6	57	58	GapFilledScaffold_330
+LG6	58	59	GapFilledScaffold_330
+LG6	59	60	GapFilledScaffold_9452
+LG6	60	61	
+LG6	61	62	GapFilledScaffold_1613
+LG6	62	63	GapFilledScaffold_339
+LG6	63	64	GapFilledScaffold_1804
+LG6	65	66	GapFilledScaffold_6062
+LG6	66	67	GapFilledScaffold_1957
+LG6	67	68	GapFilledScaffold_513
+LG6	68	69	
+LG6	69	70	GapFilledScaffold_1521
+LG6	70	71	
+LG6	71	72	GapFilledScaffold_3441
+LG6	72	73	GapFilledScaffold_5512
+LG6	73	74	GapFilledScaffold_928
+LG6	75	76	GapFilledScaffold_1785
+LG6	77	78	GapFilledScaffold_922
+LG6	78	79	GapFilledScaffold_3042
+LG6	81	82	GapFilledScaffold_423
+LG6	82	83	GapFilledScaffold_423
+LG6	84	85	GapFilledScaffold_3666
+LG6	86	87	GapFilledScaffold_4304
+LG6	87	88	GapFilledScaffold_2486
+LG6	101	102	GapFilledScaffold_338
+LG6	102	103	GapFilledScaffold_8955
+LG6	105	106	GapFilledScaffold_4746
+LG6	106	107	GapFilledScaffold_4837
+LG6	107	108	GapFilledScaffold_5295
+LG6	108	109	GapFilledScaffold_5354
+LG6	109	110	GapFilledScaffold_2247
+LG6	111	112	GapFilledScaffold_809
+LG6	113	114	
+LG6	115	116	GapFilledScaffold_2220
+LG6	119	120	GapFilledScaffold_7883
+LG6	120	121	
+LG6	121	122	GapFilledScaffold_3639
+LG6	122	123	GapFilledScaffold_3691
+LG6	123	124	GapFilledScaffold_27
+LG6	124	125	GapFilledScaffold_27
+LG6	125	126	GapFilledScaffold_304
+LG6	126	127	GapFilledScaffold_3825
+LG6	128	129	
+LG6	130	131	GapFilledScaffold_1321
+LG6	132	133	
+LG6	133	134	GapFilledScaffold_4600
+LG6	134	135	GapFilledScaffold_7752
+LG6	138	139	GapFilledScaffold_5650
+LG6	139	140	GapFilledScaffold_1796
+LG6	140	141	GapFilledScaffold_86
+LG6	162	163	GapFilledScaffold_3537
+LG6	174	175	GapFilledScaffold_895
+LG6	177	178	GapFilledScaffold_3424
+LG6	179	180	GapFilledScaffold_847
+LG6	180	181	
+LG6	184	185	GapFilledScaffold_3379
+LG6	185	186	GapFilledScaffold_3774
+LG6	187	188	GapFilledScaffold_877
+LG6	188	189	GapFilledScaffold_435
+LG6	189	190	GapFilledScaffold_3543
+LG6	190	191	GapFilledScaffold_1377
+LG7	2	3	GapFilledScaffold_3211
+LG7	4	5	GapFilledScaffold_4001
+LG7	10	11	GapFilledScaffold_7005
+LG7	19	20	GapFilledScaffold_6812
+LG7	27	28	GapFilledScaffold_3341
+LG7	31	32	GapFilledScaffold_6079
+LG7	34	35	GapFilledScaffold_6356
+LG7	35	36	GapFilledScaffold_4816
+LG7	38	39	GapFilledScaffold_9058
+LG7	40	41	GapFilledScaffold_7294
+LG7	72	73	
+LG7	73	74	GapFilledScaffold_5357
+LG7	76	77	GapFilledScaffold_2579
+LG7	77	78	GapFilledScaffold_250
+LG7	79	80	
+LG7	80	81	
+LG7	81	82	GapFilledScaffold_8561
+LG7	87	88	GapFilledScaffold_7551
+LG7	88	89	GapFilledScaffold_7963
+LG7	89	90	GapFilledScaffold_1232
+LG7	90	91	
+LG7	91	92	GapFilledScaffold_2045
+LG7	92	93	GapFilledScaffold_4861
+LG7	109	110	
+LG7	110	111	
+LG7	111	112	
+LG7	113	114	GapFilledScaffold_2052
+LG7	115	116	GapFilledScaffold_2568
+LG7	116	117	GapFilledScaffold_139
+LG7	118	119	GapFilledScaffold_84
+LG7	119	120	GapFilledScaffold_440
+LG7	120	121	
+LG7	121	122	
+LG7	123	124	GapFilledScaffold_436
+LG7	124	125	GapFilledScaffold_5570
+LG7	127	128	GapFilledScaffold_3627
+LG7	128	129	GapFilledScaffold_626
+LG7	131	132	
+LG7	132	133	
+LG7	135	136	GapFilledScaffold_3953
+LG7	136	137	GapFilledScaffold_2884
+LG7	137	138	GapFilledScaffold_2781
+LG7	138	139	GapFilledScaffold_2781
+LG7	141	142	GapFilledScaffold_4542
+LG7	143	144	GapFilledScaffold_4141
+LG7	144	145	GapFilledScaffold_2642
+LG7	145	146	GapFilledScaffold_3060
+LG7	146	147	GapFilledScaffold_145
+LG7	147	148	
+LG7	148	149	GapFilledScaffold_1313
+LG7	150	151	GapFilledScaffold_3672
+LG7	152	153	
+LG7	154	155	GapFilledScaffold_54
+LG7	155	156	GapFilledScaffold_6337
+LG7	156	157	GapFilledScaffold_2961
+LG7	157	158	GapFilledScaffold_2738
+LG7	158	159	GapFilledScaffold_2742
+LG7	159	160	GapFilledScaffold_7505
+LG7	161	162	GapFilledScaffold_7528
+LG7	171	172	
+LG7	172	173	
+LG7	173	174	
+LG7	174	175	GapFilledScaffold_8842
+LG7	175	176	GapFilledScaffold_465
+LG7	176	177	GapFilledScaffold_1770
+LG7	182	183	
+LG8	0	1	GapFilledScaffold_1221
+LG8	2	3	GapFilledScaffold_5891
+LG8	5	6	GapFilledScaffold_172
+LG8	7	8	GapFilledScaffold_2914
+LG8	9	10	GapFilledScaffold_1599
+LG8	10	11	GapFilledScaffold_2767
+LG8	12	13	GapFilledScaffold_2283
+LG8	13	14	GapFilledScaffold_3687
+LG8	14	15	GapFilledScaffold_22137
+LG8	16	17	GapFilledScaffold_360
+LG8	30	31	GapFilledScaffold_401
+LG8	35	36	GapFilledScaffold_743
+LG8	39	40	GapFilledScaffold_6197
+LG8	40	41	GapFilledScaffold_8235
+LG8	45	46	GapFilledScaffold_2932
+LG8	50	51	GapFilledScaffold_4282
+LG8	52	53	GapFilledScaffold_18
+LG8	53	54	GapFilledScaffold_18
+LG8	54	55	GapFilledScaffold_1888
+LG8	55	56	GapFilledScaffold_5964
+LG8	56	57	GapFilledScaffold_1154
+LG8	57	58	GapFilledScaffold_3413
+LG8	58	59	GapFilledScaffold_7076
+LG8	59	60	GapFilledScaffold_4017
+LG8	60	61	GapFilledScaffold_1363
+LG8	75	76	GapFilledScaffold_5439
+LG8	76	77	GapFilledScaffold_487
+LG8	77	78	GapFilledScaffold_1213
+LG8	78	79	GapFilledScaffold_537
+LG8	79	80	GapFilledScaffold_709
+LG8	80	81	GapFilledScaffold_2535
+LG8	83	84	GapFilledScaffold_2097
+LG8	85	86	GapFilledScaffold_666
+LG8	86	87	GapFilledScaffold_666
+LG8	87	88	GapFilledScaffold_1624
+LG8	88	89	GapFilledScaffold_1225
+LG8	89	90	GapFilledScaffold_545
+LG8	90	91	GapFilledScaffold_664
+LG8	91	92	GapFilledScaffold_1263
+LG8	92	93	GapFilledScaffold_5644
+LG8	93	94	GapFilledScaffold_1883
+LG8	94	95	GapFilledScaffold_11
+LG8	95	96	GapFilledScaffold_508
+LG8	96	97	GapFilledScaffold_148
+LG8	97	98	GapFilledScaffold_5509
+LG8	98	99	GapFilledScaffold_4082
+LG8	99	100	GapFilledScaffold_4737
+LG8	100	101	GapFilledScaffold_3934
+LG8	101	102	GapFilledScaffold_3253
+LG8	102	103	GapFilledScaffold_3523
+LG8	103	104	GapFilledScaffold_1325
+LG8	104	105	GapFilledScaffold_2221
+LG8	105	106	
+LG8	106	107	GapFilledScaffold_319
+LG8	107	108	GapFilledScaffold_763
+LG8	108	109	GapFilledScaffold_157
+LG8	110	111	GapFilledScaffold_6984
+LG8	111	112	GapFilledScaffold_6464
+LG8	112	113	GapFilledScaffold_3035
+LG8	113	114	GapFilledScaffold_490
+LG8	116	117	GapFilledScaffold_2281
+LG8	119	120	
+LG8	121	122	GapFilledScaffold_260
+LG8	128	129	GapFilledScaffold_262
+LG8	130	131	GapFilledScaffold_4072
+LG8	133	134	GapFilledScaffold_2024
+LG8	134	135	GapFilledScaffold_3010
+LG8	136	137	GapFilledScaffold_1011
+LG8	141	142	GapFilledScaffold_2615
+LG8	143	144	GapFilledScaffold_6801
+LG8	150	151	
+LG8	152	153	GapFilledScaffold_2709
+LG8	153	154	GapFilledScaffold_2709
+LG8	154	155	GapFilledScaffold_6835
+LG8	156	157	GapFilledScaffold_1525
+LG8	157	158	GapFilledScaffold_1758
+LG8	159	160	GapFilledScaffold_10721
+LG8	161	162	GapFilledScaffold_1572
+LG8	162	163	GapFilledScaffold_8309
+LG8	164	165	GapFilledScaffold_366
+LG8	165	166	GapFilledScaffold_1234
+LG9	10	11	GapFilledScaffold_2099
+LG9	11	12	
+LG9	12	13	GapFilledScaffold_3528
+LG9	13	14	GapFilledScaffold_1396
+LG9	14	15	GapFilledScaffold_3959
+LG9	15	16	GapFilledScaffold_8887
+LG9	16	17	GapFilledScaffold_2421
+LG9	17	18	GapFilledScaffold_4236
+LG9	20	21	
+LG9	21	22	GapFilledScaffold_9560
+LG9	22	23	GapFilledScaffold_171
+LG9	23	24	GapFilledScaffold_979
+LG9	24	25	GapFilledScaffold_4214
+LG9	25	26	GapFilledScaffold_5159
+LG9	26	27	GapFilledScaffold_1284
+LG9	27	28	
+LG9	30	31	GapFilledScaffold_630
+LG9	31	32	GapFilledScaffold_1773
+LG9	36	37	GapFilledScaffold_1591
+LG9	38	39	GapFilledScaffold_1260
+LG9	39	40	GapFilledScaffold_552
+LG9	40	41	GapFilledScaffold_5914
+LG9	41	42	
+LG9	42	43	
+LG9	43	44	GapFilledScaffold_1660
+LG9	44	45	
+LG9	45	46	
+LG9	46	47	GapFilledScaffold_11735
+LG9	48	49	GapFilledScaffold_433
+LG9	49	50	GapFilledScaffold_3700
+LG9	50	51	GapFilledScaffold_294
+LG9	52	53	GapFilledScaffold_1933
+LG9	53	54	GapFilledScaffold_405
+LG9	54	55	GapFilledScaffold_104
+LG9	56	57	GapFilledScaffold_2886
+LG9	57	58	GapFilledScaffold_2886
+LG9	58	59	GapFilledScaffold_3308
+LG9	59	60	GapFilledScaffold_345
+LG9	61	62	GapFilledScaffold_392
+LG9	62	63	GapFilledScaffold_3474
+LG9	63	64	GapFilledScaffold_539
+LG9	64	65	GapFilledScaffold_977
+LG9	65	66	GapFilledScaffold_842
+LG9	66	67	GapFilledScaffold_8151
+LG9	68	69	
+LG9	69	70	GapFilledScaffold_2768
+LG9	90	91	
+LG9	91	92	GapFilledScaffold_4154
+LG9	92	93	
+LG9	93	94	
+LG9	94	95	GapFilledScaffold_4448
+LG9	95	96	GapFilledScaffold_4124
+LG9	96	97	GapFilledScaffold_3797
+LG9	97	98	GapFilledScaffold_11998
+LG9	98	99	GapFilledScaffold_1272
+LG9	99	100	GapFilledScaffold_1461
+LG9	100	101	
+LG9	101	102	GapFilledScaffold_2204
+LG9	121	122	GapFilledScaffold_747
+LG9	123	124	
+LG9	124	125	GapFilledScaffold_9895
+LG9	125	126	GapFilledScaffold_3212
+LG9	126	127	GapFilledScaffold_2923
+LG9	127	128	
+LG9	128	129	
+LG9	129	130	GapFilledScaffold_1389
+LG9	132	133	
+LG9	136	137	GapFilledScaffold_1581
+LG9	138	139	
+LG9	139	140	GapFilledScaffold_107
+LG9	140	141	
+LG9	144	145	GapFilledScaffold_1289
+LG9	148	149	
+LG9	151	152	
+LG9	153	154	GapFilledScaffold_715
+LG9	155	156	GapFilledScaffold_2588
+LG9	156	157	GapFilledScaffold_2588
+LG9	160	161	
+LG9	164	165	
+LG9	165	166	GapFilledScaffold_2149
+LG9	166	167	GapFilledScaffold_2149
+LG9	167	168	GapFilledScaffold_3423
+LG9	169	170	
+LG9	170	171	GapFilledScaffold_2826
+LG9	171	172	GapFilledScaffold_2391
+LG9	172	173	
+LG9	173	174	GapFilledScaffold_12435
+LG9	174	175	
+LG9	175	176	GapFilledScaffold_2203
+LG9	176	177	GapFilledScaffold_15994
+LG9	178	179	
+LG10	0	1	GapFilledScaffold_4022
+LG10	1	2	GapFilledScaffold_4022
+LG10	2	3	GapFilledScaffold_4534
+LG10	3	4	
+LG10	6	7	GapFilledScaffold_208
+LG10	9	10	GapFilledScaffold_10357
+LG10	10	11	
+LG10	11	12	GapFilledScaffold_5851
+LG10	14	15	
+LG10	15	16	
+LG10	17	18	GapFilledScaffold_89
+LG10	21	22	GapFilledScaffold_78
+LG10	22	23	
+LG10	26	27	GapFilledScaffold_2622
+LG10	30	31	GapFilledScaffold_249
+LG10	31	32	GapFilledScaffold_2638
+LG10	33	34	GapFilledScaffold_603
+LG10	34	35	GapFilledScaffold_1352
+LG10	35	36	GapFilledScaffold_1352
+LG10	44	45	
+LG10	50	51	
+LG10	53	54	GapFilledScaffold_491
+LG10	54	55	
+LG10	55	56	GapFilledScaffold_228
+LG10	56	57	GapFilledScaffold_229
+LG10	57	58	GapFilledScaffold_229
+LG10	59	60	GapFilledScaffold_9269
+LG10	60	61	
+LG10	62	63	GapFilledScaffold_3164
+LG10	63	64	GapFilledScaffold_1930
+LG10	64	65	GapFilledScaffold_4343
+LG10	65	66	GapFilledScaffold_94
+LG10	66	67	GapFilledScaffold_114
+LG10	67	68	
+LG10	68	69	
+LG10	80	81	GapFilledScaffold_1194
+LG10	89	90	GapFilledScaffold_4242
+LG10	90	91	GapFilledScaffold_3121
+LG10	91	92	GapFilledScaffold_6123
+LG10	92	93	
+LG10	93	94	GapFilledScaffold_899
+LG10	94	95	
+LG10	95	96	GapFilledScaffold_2084
+LG10	96	97	GapFilledScaffold_8238
+LG10	97	98	
+LG10	98	99	GapFilledScaffold_527
+LG10	99	100	
+LG10	100	101	GapFilledScaffold_4887
+LG10	101	102	
+LG10	102	103	GapFilledScaffold_412
+LG10	104	105	GapFilledScaffold_705
+LG10	105	106	GapFilledScaffold_6219
+LG10	107	108	GapFilledScaffold_2536
+LG10	121	122	GapFilledScaffold_2078
+LG10	123	124	
+LG10	124	125	GapFilledScaffold_8963
+LG10	126	127	
+LG10	127	128	
+LG10	129	130	GapFilledScaffold_2893
+LG10	130	131	GapFilledScaffold_3118
+LG10	133	134	GapFilledScaffold_23112
+LG10	135	136	GapFilledScaffold_954
+LG10	136	137	GapFilledScaffold_3388
+LG10	138	139	GapFilledScaffold_689
+LG10	140	141	GapFilledScaffold_12026
+LG10	147	148	GapFilledScaffold_5468
+LG10	158	159	GapFilledScaffold_1182
+LG10	159	160	GapFilledScaffold_1182
+LG10	164	165	GapFilledScaffold_689
+LG10	165	166	
+LG10	168	169	GapFilledScaffold_41
+LG10	169	170	GapFilledScaffold_5245
+LG10	170	171	GapFilledScaffold_226
+LG11	0	1	GapFilledScaffold_1348
+LG11	1	2	GapFilledScaffold_3338
+LG11	2	3	GapFilledScaffold_5766
+LG11	3	4	GapFilledScaffold_5766
+LG11	6	7	
+LG11	7	8	GapFilledScaffold_8844
+LG11	8	9	
+LG11	10	11	GapFilledScaffold_1147
+LG11	11	12	GapFilledScaffold_2749
+LG11	12	13	GapFilledScaffold_2652
+LG11	13	14	GapFilledScaffold_2652
+LG11	14	15	
+LG11	15	16	GapFilledScaffold_1
+LG11	16	17	GapFilledScaffold_1
+LG11	17	18	GapFilledScaffold_1
+LG11	18	19	GapFilledScaffold_1
+LG11	19	20	
+LG11	20	21	GapFilledScaffold_333
+LG11	21	22	
+LG11	22	23	
+LG11	23	24	GapFilledScaffold_4108
+LG11	24	25	GapFilledScaffold_161
+LG11	25	26	GapFilledScaffold_161
+LG11	26	27	GapFilledScaffold_161
+LG11	28	29	GapFilledScaffold_2957
+LG11	29	30	GapFilledScaffold_1558
+LG11	30	31	GapFilledScaffold_1558
+LG11	31	32	GapFilledScaffold_2066
+LG11	32	33	GapFilledScaffold_6034
+LG11	33	34	
+LG11	34	35	GapFilledScaffold_2876
+LG11	35	36	GapFilledScaffold_4470
+LG11	36	37	GapFilledScaffold_1411
+LG11	37	38	GapFilledScaffold_8072
+LG11	38	39	GapFilledScaffold_1322
+LG11	42	43	GapFilledScaffold_708
+LG11	44	45	GapFilledScaffold_1863
+LG11	45	46	GapFilledScaffold_1159
+LG11	46	47	GapFilledScaffold_1159
+LG11	47	48	GapFilledScaffold_1699
+LG11	48	49	
+LG11	49	50	GapFilledScaffold_66
+LG11	50	51	GapFilledScaffold_66
+LG11	51	52	GapFilledScaffold_354
+LG11	52	53	GapFilledScaffold_1544
+LG11	53	54	GapFilledScaffold_637
+LG11	54	55	GapFilledScaffold_598
+LG11	55	56	GapFilledScaffold_2039
+LG11	56	57	GapFilledScaffold_7376
+LG11	57	58	GapFilledScaffold_1087
+LG11	58	59	GapFilledScaffold_96
+LG11	59	60	GapFilledScaffold_2351
+LG11	60	61	GapFilledScaffold_4385
+LG11	61	62	GapFilledScaffold_127
+LG11	62	63	GapFilledScaffold_4405
+LG11	63	64	GapFilledScaffold_6908
+LG11	64	65	GapFilledScaffold_2953
+LG11	66	67	GapFilledScaffold_2136
+LG11	67	68	GapFilledScaffold_1037
+LG11	68	69	GapFilledScaffold_2030
+LG11	69	70	GapFilledScaffold_8969
+LG11	70	71	GapFilledScaffold_1538
+LG11	71	72	GapFilledScaffold_1621
+LG11	72	73	GapFilledScaffold_3117
+LG11	73	74	GapFilledScaffold_1022
+LG11	74	75	GapFilledScaffold_811
+LG11	75	76	GapFilledScaffold_2554
+LG11	76	77	GapFilledScaffold_1384
+LG11	77	78	GapFilledScaffold_7373
+LG11	78	79	GapFilledScaffold_2847
+LG11	80	81	GapFilledScaffold_533
+LG11	81	82	
+LG11	85	86	GapFilledScaffold_67
+LG11	87	88	GapFilledScaffold_2265
+LG11	91	92	
+LG11	92	93	GapFilledScaffold_6229
+LG11	117	118	GapFilledScaffold_2647
+LG11	119	120	GapFilledScaffold_5538
+LG11	120	121	GapFilledScaffold_12952
+LG11	125	126	GapFilledScaffold_3276
+LG11	130	131	GapFilledScaffold_5373
+LG11	132	133	GapFilledScaffold_3534
+LG11	138	139	GapFilledScaffold_2832
+LG11	139	140	GapFilledScaffold_8794
+LG11	160	161	GapFilledScaffold_7421
+LG12	0	1	GapFilledScaffold_3155
+LG12	1	2	GapFilledScaffold_3496
+LG12	2	3	GapFilledScaffold_876
+LG12	25	26	GapFilledScaffold_876
+LG12	26	27	GapFilledScaffold_4586
+LG12	27	28	
+LG12	28	29	GapFilledScaffold_6822
+LG12	29	30	GapFilledScaffold_6003
+LG12	30	31	
+LG12	31	32	GapFilledScaffold_582
+LG12	32	33	GapFilledScaffold_6003
+LG12	34	35	
+LG12	36	37	
+LG12	39	40	GapFilledScaffold_3155
+LG12	41	42	GapFilledScaffold_981
+LG12	42	43	GapFilledScaffold_4560
+LG12	43	44	GapFilledScaffold_3755
+LG12	44	45	GapFilledScaffold_1430
+LG12	46	47	
+LG12	47	48	
+LG12	49	50	GapFilledScaffold_277
+LG12	50	51	GapFilledScaffold_974
+LG12	51	52	GapFilledScaffold_974
+LG12	53	54	GapFilledScaffold_1746
+LG12	54	55	
+LG12	55	56	GapFilledScaffold_182
+LG12	57	58	GapFilledScaffold_1492
+LG12	58	59	
+LG12	59	60	GapFilledScaffold_624
+LG12	61	62	
+LG12	62	63	GapFilledScaffold_3928
+LG12	64	65	GapFilledScaffold_549
+LG12	86	87	
+LG12	90	91	GapFilledScaffold_6859
+LG12	91	92	GapFilledScaffold_197
+LG12	97	98	GapFilledScaffold_1268
+LG12	98	99	GapFilledScaffold_4280
+LG12	99	100	GapFilledScaffold_478
+LG12	100	101	
+LG12	102	103	GapFilledScaffold_2800
+LG12	162	163	GapFilledScaffold_2069
+LG12	163	164	GapFilledScaffold_4099
+LG12	164	165	
+LG12	165	166	GapFilledScaffold_110
+LG12	166	167	
+LG12	167	168	
+LG13	0	1	GapFilledScaffold_3446
+LG13	35	36	GapFilledScaffold_585
+LG13	36	37	GapFilledScaffold_2363
+LG13	38	39	
+LG13	39	40	
+LG13	40	41	GapFilledScaffold_1073
+LG13	42	43	GapFilledScaffold_119
+LG13	43	44	GapFilledScaffold_2803
+LG13	45	46	GapFilledScaffold_3169
+LG13	49	50	GapFilledScaffold_3130
+LG13	50	51	GapFilledScaffold_376
+LG13	60	61	GapFilledScaffold_2789
+LG13	63	64	GapFilledScaffold_2911
+LG13	68	69	GapFilledScaffold_223
+LG13	69	70	GapFilledScaffold_5415
+LG13	71	72	GapFilledScaffold_100
+LG13	72	73	GapFilledScaffold_100
+LG13	73	74	GapFilledScaffold_2818
+LG13	74	75	GapFilledScaffold_1523
+LG13	76	77	GapFilledScaffold_150
+LG13	78	79	GapFilledScaffold_3325
+LG13	79	80	GapFilledScaffold_4288
+LG13	80	81	GapFilledScaffold_1992
+LG13	81	82	GapFilledScaffold_2160
+LG13	82	83	GapFilledScaffold_7
+LG13	83	84	GapFilledScaffold_4455
+LG13	84	85	GapFilledScaffold_445
+LG13	85	86	GapFilledScaffold_1929
+LG13	86	87	GapFilledScaffold_547
+LG13	88	89	GapFilledScaffold_644
+LG13	89	90	GapFilledScaffold_11409
+LG13	90	91	GapFilledScaffold_1126
+LG13	92	93	GapFilledScaffold_11120
+LG13	93	94	GapFilledScaffold_5607
+LG13	94	95	GapFilledScaffold_3762
+LG13	96	97	
+LG13	97	98	GapFilledScaffold_183
+LG13	98	99	GapFilledScaffold_6149
+LG13	99	100	GapFilledScaffold_668
+LG13	100	101	GapFilledScaffold_1184
+LG13	102	103	GapFilledScaffold_871
+LG13	105	106	GapFilledScaffold_504
+LG13	106	107	GapFilledScaffold_1848
+LG13	107	108	GapFilledScaffold_2763
+LG13	108	109	GapFilledScaffold_207
+LG13	109	110	GapFilledScaffold_4683
+LG13	110	111	GapFilledScaffold_978
+LG13	111	112	GapFilledScaffold_175
+LG13	114	115	GapFilledScaffold_2444
+LG13	118	119	GapFilledScaffold_1587
+LG13	123	124	
+LG13	124	125	GapFilledScaffold_162
+LG13	125	126	GapFilledScaffold_162
+LG13	126	127	GapFilledScaffold_633
+LG13	127	128	GapFilledScaffold_6267
+LG13	129	130	GapFilledScaffold_91
+LG13	131	132	GapFilledScaffold_1355
+LG13	132	133	GapFilledScaffold_1355
+LG13	133	134	GapFilledScaffold_1355
+LG13	134	135	GapFilledScaffold_1355
+LG13	135	136	
+LG13	137	138	GapFilledScaffold_15561
+LG13	138	139	
+LG13	139	140	
+LG13	140	141	GapFilledScaffold_344
+LG13	141	142	
+LG13	142	143	GapFilledScaffold_2789
+LG13	143	144	GapFilledScaffold_2004
+LG13	144	145	GapFilledScaffold_3820
+LG13	145	146	GapFilledScaffold_3600
+LG13	146	147	GapFilledScaffold_1906
+LG13	147	148	GapFilledScaffold_1906
+LG13	148	149	GapFilledScaffold_2610
+LG13	149	150	GapFilledScaffold_2373
+LG14	1	2	GapFilledScaffold_7942
+LG14	2	3	GapFilledScaffold_680
+LG14	3	4	GapFilledScaffold_6418
+LG14	5	6	GapFilledScaffold_2656
+LG14	7	8	GapFilledScaffold_9622
+LG14	9	10	GapFilledScaffold_5564
+LG14	10	11	GapFilledScaffold_256
+LG14	11	12	GapFilledScaffold_6941
+LG14	12	13	GapFilledScaffold_10402
+LG14	13	14	GapFilledScaffold_575
+LG14	14	15	GapFilledScaffold_1400
+LG14	16	17	GapFilledScaffold_7152
+LG14	17	18	GapFilledScaffold_4362
+LG14	20	21	GapFilledScaffold_1994
+LG14	21	22	GapFilledScaffold_8183
+LG14	24	25	GapFilledScaffold_4414
+LG14	25	26	GapFilledScaffold_3926
+LG14	27	28	GapFilledScaffold_147
+LG14	28	29	GapFilledScaffold_147
+LG14	35	36	
+LG14	36	37	GapFilledScaffold_1712
+LG14	37	38	
+LG14	38	39	
+LG14	39	40	GapFilledScaffold_5932
+LG14	42	43	GapFilledScaffold_506
+LG14	43	44	GapFilledScaffold_297
+LG14	44	45	
+LG14	45	46	GapFilledScaffold_2697
+LG14	46	47	GapFilledScaffold_2184
+LG14	47	48	GapFilledScaffold_2866
+LG14	48	49	GapFilledScaffold_2005
+LG14	63	64	
+LG14	64	65	GapFilledScaffold_2524
+LG14	65	66	
+LG14	66	67	GapFilledScaffold_273
+LG14	67	68	GapFilledScaffold_1405
+LG14	68	69	GapFilledScaffold_425
+LG14	69	70	GapFilledScaffold_194
+LG14	70	71	GapFilledScaffold_1206
+LG14	71	72	
+LG14	72	73	
+LG14	73	74	GapFilledScaffold_93
+LG14	74	75	GapFilledScaffold_93
+LG14	75	76	GapFilledScaffold_707
+LG14	76	77	GapFilledScaffold_3102
+LG14	77	78	
+LG14	79	80	GapFilledScaffold_682
+LG14	80	81	GapFilledScaffold_2227
+LG14	81	82	GapFilledScaffold_265
+LG14	82	83	GapFilledScaffold_1527
+LG14	83	84	GapFilledScaffold_6276
+LG14	84	85	GapFilledScaffold_153
+LG14	85	86	
+LG14	86	87	GapFilledScaffold_503
+LG14	87	88	GapFilledScaffold_414
+LG14	88	89	GapFilledScaffold_779
+LG14	89	90	GapFilledScaffold_2835
+LG14	90	91	GapFilledScaffold_76
+LG14	91	92	GapFilledScaffold_76
+LG14	92	93	GapFilledScaffold_5952
+LG14	93	94	GapFilledScaffold_38
+LG14	94	95	GapFilledScaffold_2232
+LG14	95	96	GapFilledScaffold_20197
+LG14	96	97	GapFilledScaffold_3973
+LG14	97	98	GapFilledScaffold_1829
+LG14	98	99	GapFilledScaffold_4867
+LG14	99	100	GapFilledScaffold_864
+LG14	100	101	GapFilledScaffold_142
+LG14	101	102	GapFilledScaffold_3653
+LG14	102	103	
+LG14	103	104	GapFilledScaffold_211
+LG14	104	105	GapFilledScaffold_971
+LG14	105	106	GapFilledScaffold_3735
+LG14	106	107	GapFilledScaffold_3735
+LG14	107	108	
+LG14	108	109	
+LG14	109	110	GapFilledScaffold_1255
+LG14	110	111	
+LG14	111	112	GapFilledScaffold_5605
+LG14	115	116	GapFilledScaffold_3399
+LG14	116	117	
+LG14	120	121	GapFilledScaffold_572
+LG14	121	122	GapFilledScaffold_572
+LG14	123	124	
+LG14	124	125	GapFilledScaffold_470
+LG14	126	127	GapFilledScaffold_1055
+LG14	127	128	GapFilledScaffold_2310
+LG14	129	130	GapFilledScaffold_3804
+LG14	130	131	GapFilledScaffold_10800
+LG14	131	132	GapFilledScaffold_4728
+LG14	134	135	GapFilledScaffold_4103
+LG14	135	136	GapFilledScaffold_6907
+LG15	5	6	GapFilledScaffold_6018
+LG15	6	7	GapFilledScaffold_1408
+LG15	7	8	GapFilledScaffold_199
+LG15	8	9	GapFilledScaffold_199
+LG15	9	10	GapFilledScaffold_7960
+LG15	11	12	GapFilledScaffold_844
+LG15	12	13	GapFilledScaffold_2896
+LG15	13	14	GapFilledScaffold_310
+LG15	14	15	GapFilledScaffold_5502
+LG15	16	17	GapFilledScaffold_1003
+LG15	17	18	GapFilledScaffold_1003
+LG15	18	19	GapFilledScaffold_2229
+LG15	19	20	GapFilledScaffold_3380
+LG15	20	21	
+LG15	21	22	GapFilledScaffold_3095
+LG15	22	23	
+LG15	23	24	
+LG15	24	25	GapFilledScaffold_1379
+LG15	25	26	
+LG15	26	27	GapFilledScaffold_649
+LG15	27	28	GapFilledScaffold_515
+LG15	28	29	GapFilledScaffold_5658
+LG15	29	30	
+LG15	30	31	GapFilledScaffold_72
+LG15	32	33	GapFilledScaffold_42
+LG15	34	35	GapFilledScaffold_6857
+LG15	36	37	GapFilledScaffold_245
+LG15	38	39	GapFilledScaffold_155
+LG15	39	40	GapFilledScaffold_155
+LG15	40	41	
+LG15	43	44	GapFilledScaffold_29
+LG15	50	51	GapFilledScaffold_3084
+LG15	55	56	GapFilledScaffold_165
+LG15	56	57	GapFilledScaffold_3363
+LG15	58	59	GapFilledScaffold_461
+LG15	59	60	
+LG15	60	61	GapFilledScaffold_270
+LG15	61	62	GapFilledScaffold_1240
+LG15	62	63	GapFilledScaffold_1529
+LG15	63	64	GapFilledScaffold_2242
+LG15	64	65	GapFilledScaffold_1542
+LG15	86	87	GapFilledScaffold_1881
+LG15	87	88	GapFilledScaffold_773
+LG15	88	89	
+LG15	89	90	GapFilledScaffold_3951
+LG15	90	91	GapFilledScaffold_7831
+LG15	91	92	GapFilledScaffold_1244
+LG15	92	93	GapFilledScaffold_1219
+LG15	93	94	GapFilledScaffold_535
+LG15	94	95	GapFilledScaffold_102
+LG15	95	96	GapFilledScaffold_762
+LG15	96	97	GapFilledScaffold_7921
+LG15	97	98	GapFilledScaffold_1710
+LG15	98	99	GapFilledScaffold_1561
+LG15	99	100	GapFilledScaffold_3844
+LG15	100	101	GapFilledScaffold_3844
+LG15	101	102	GapFilledScaffold_5662
+LG15	103	104	GapFilledScaffold_7595
+LG15	104	105	GapFilledScaffold_7517
+LG15	105	106	GapFilledScaffold_5818
+LG15	108	109	
+LG15	110	111	
+LG15	112	113	GapFilledScaffold_1557
+LG15	114	115	GapFilledScaffold_5188
+LG15	120	121	
+LG15	122	123	GapFilledScaffold_2787
+LG15	124	125	GapFilledScaffold_6609
+LG15	129	130	GapFilledScaffold_193
+LG15	130	131	GapFilledScaffold_193
+LG15	131	132	GapFilledScaffold_68
+LG15	132	133	GapFilledScaffold_68
+LG15	135	136	GapFilledScaffold_313
+LG15	138	139	GapFilledScaffold_880
+LG15	139	140	GapFilledScaffold_2475
+LG16	6	7	GapFilledScaffold_3605
+LG16	7	8	GapFilledScaffold_4026
+LG16	8	9	GapFilledScaffold_7451
+LG16	9	10	GapFilledScaffold_7495
+LG16	11	12	
+LG16	12	13	GapFilledScaffold_6621
+LG16	14	15	GapFilledScaffold_3374
+LG16	18	19	
+LG16	19	20	
+LG16	20	21	GapFilledScaffold_6313
+LG16	21	22	GapFilledScaffold_2339
+LG16	22	23	GapFilledScaffold_4325
+LG16	24	25	GapFilledScaffold_11824
+LG16	25	26	GapFilledScaffold_2197
+LG16	28	29	GapFilledScaffold_7260
+LG16	29	30	GapFilledScaffold_939
+LG16	31	32	GapFilledScaffold_2275
+LG16	33	34	GapFilledScaffold_1239
+LG16	35	36	
+LG16	36	37	GapFilledScaffold_1064
+LG16	37	38	GapFilledScaffold_1998
+LG16	38	39	GapFilledScaffold_1152
+LG16	39	40	GapFilledScaffold_447
+LG16	40	41	GapFilledScaffold_607
+LG16	41	42	
+LG16	42	43	GapFilledScaffold_4619
+LG16	43	44	GapFilledScaffold_634
+LG16	44	45	GapFilledScaffold_2849
+LG16	45	46	
+LG16	46	47	GapFilledScaffold_1586
+LG16	47	48	GapFilledScaffold_9178
+LG16	48	49	GapFilledScaffold_734
+LG16	49	50	GapFilledScaffold_190
+LG16	50	51	GapFilledScaffold_5990
+LG16	51	52	GapFilledScaffold_1189
+LG16	52	53	
+LG16	53	54	
+LG16	54	55	GapFilledScaffold_238
+LG16	55	56	
+LG16	56	57	GapFilledScaffold_19
+LG16	57	58	
+LG16	58	59	GapFilledScaffold_507
+LG16	59	60	GapFilledScaffold_7891
+LG16	60	61	GapFilledScaffold_2993
+LG16	61	62	GapFilledScaffold_2993
+LG16	71	72	
+LG16	75	76	
+LG16	76	77	GapFilledScaffold_1066
+LG16	77	78	
+LG16	81	82	GapFilledScaffold_9469
+LG16	84	85	GapFilledScaffold_237
+LG16	85	86	GapFilledScaffold_4862
+LG16	86	87	GapFilledScaffold_4817
+LG16	94	95	
+LG16	102	103	GapFilledScaffold_11240
+LG16	104	105	GapFilledScaffold_6639
+LG16	105	106	GapFilledScaffold_3086
+LG16	106	107	GapFilledScaffold_3086
+LG16	111	112	GapFilledScaffold_3178
+LG16	112	113	GapFilledScaffold_2951
+LG16	113	114	GapFilledScaffold_10791
+LG16	114	115	GapFilledScaffold_4596
+LG17	0	1	
+LG17	1	2	
+LG17	8	9	GapFilledScaffold_4271
+LG17	15	16	GapFilledScaffold_1362
+LG17	18	19	
+LG17	29	30	GapFilledScaffold_7728
+LG17	31	32	GapFilledScaffold_2420
+LG17	35	36	GapFilledScaffold_5118
+LG17	37	38	GapFilledScaffold_1163
+LG17	38	39	GapFilledScaffold_3894
+LG17	53	54	GapFilledScaffold_4395
+LG17	54	55	GapFilledScaffold_6821
+LG17	55	56	
+LG17	57	58	
+LG17	58	59	GapFilledScaffold_167
+LG17	59	60	GapFilledScaffold_1372
+LG17	62	63	GapFilledScaffold_1343
+LG17	63	64	
+LG17	66	67	GapFilledScaffold_1138
+LG17	67	68	GapFilledScaffold_6952
+LG17	68	69	GapFilledScaffold_4906
+LG17	70	71	GapFilledScaffold_1575
+LG17	71	72	GapFilledScaffold_2975
+LG17	76	77	GapFilledScaffold_4039
+LG17	77	78	GapFilledScaffold_106
+LG17	79	80	GapFilledScaffold_2467
+LG17	83	84	GapFilledScaffold_362
+LG17	86	87	GapFilledScaffold_2716
+LG17	88	89	GapFilledScaffold_375
+LG17	92	93	
+LG17	93	94	GapFilledScaffold_1141
+LG17	96	97	GapFilledScaffold_109
+LG17	99	100	GapFilledScaffold_991
+LG17	100	101	
+LG17	101	102	
+LG17	102	103	GapFilledScaffold_5927
+LG17	103	104	GapFilledScaffold_5694
+LG17	104	105	GapFilledScaffold_1862
+LG17	109	110	
+LG17	110	111	GapFilledScaffold_5581
+LG17	127	128	
+LG18	0	1	GapFilledScaffold_6865
+LG18	1	2	GapFilledScaffold_4522
+LG18	2	3	GapFilledScaffold_6114
+LG18	3	4	GapFilledScaffold_4889
+LG18	5	6	GapFilledScaffold_845
+LG18	6	7	GapFilledScaffold_1039
+LG18	7	8	GapFilledScaffold_2113
+LG18	8	9	GapFilledScaffold_2946
+LG18	9	10	GapFilledScaffold_5857
+LG18	10	11	
+LG18	11	12	GapFilledScaffold_3141
+LG18	12	13	GapFilledScaffold_2051
+LG18	13	14	GapFilledScaffold_1099
+LG18	14	15	GapFilledScaffold_2026
+LG18	15	16	GapFilledScaffold_1193
+LG18	16	17	GapFilledScaffold_374
+LG18	17	18	GapFilledScaffold_374
+LG18	18	19	GapFilledScaffold_2552
+LG18	19	20	GapFilledScaffold_6352
+LG18	20	21	GapFilledScaffold_1238
+LG18	21	22	GapFilledScaffold_969
+LG18	22	23	
+LG18	23	24	GapFilledScaffold_2055
+LG18	24	25	GapFilledScaffold_1063
+LG18	25	26	GapFilledScaffold_120
+LG18	27	28	GapFilledScaffold_71
+LG18	28	29	GapFilledScaffold_912
+LG18	29	30	
+LG18	30	31	GapFilledScaffold_7994
+LG18	31	32	GapFilledScaffold_1640
+LG18	33	34	GapFilledScaffold_704
+LG18	34	35	GapFilledScaffold_10131
+LG18	36	37	GapFilledScaffold_146
+LG18	37	38	
+LG18	38	39	GapFilledScaffold_9657
+LG18	42	43	GapFilledScaffold_1353
+LG18	43	44	GapFilledScaffold_1254
+LG18	44	45	GapFilledScaffold_3702
+LG18	60	61	
+LG18	63	64	GapFilledScaffold_3946
+LG18	64	65	
+LG18	65	66	
+LG18	66	67	GapFilledScaffold_4068
+LG18	67	68	GapFilledScaffold_824
+LG18	68	69	GapFilledScaffold_1128
+LG18	69	70	GapFilledScaffold_4956
+LG18	71	72	GapFilledScaffold_824
+LG18	78	79	
+LG18	81	82	
+LG18	87	88	
+LG18	88	89	GapFilledScaffold_10
+LG18	89	90	
+LG18	90	91	
+LG18	91	92	GapFilledScaffold_4998
+LG18	92	93	GapFilledScaffold_439
+LG18	93	94	
+LG18	94	95	GapFilledScaffold_1487
+LG18	95	96	GapFilledScaffold_3180
+LG18	96	97	GapFilledScaffold_5036
+LG18	97	98	GapFilledScaffold_5036
+LG18	98	99	GapFilledScaffold_2308
+LG18	99	100	
+LG18	100	101	GapFilledScaffold_3067
+LG18	101	102	
+LG18	102	103	GapFilledScaffold_2508
+LG18	103	104	GapFilledScaffold_1339
+LG18	104	105	
+LG18	105	106	GapFilledScaffold_9708
+LG18	106	107	GapFilledScaffold_1339
+LG19	0	1	GapFilledScaffold_4900
+LG19	1	2	GapFilledScaffold_9731
+LG19	5	6	GapFilledScaffold_6904
+LG19	10	11	GapFilledScaffold_4952
+LG19	11	12	GapFilledScaffold_7617
+LG19	20	21	GapFilledScaffold_8227
+LG19	21	22	GapFilledScaffold_8227
+LG19	33	34	GapFilledScaffold_6110
+LG19	34	35	GapFilledScaffold_566
+LG19	35	36	
+LG19	37	38	
+LG19	38	39	GapFilledScaffold_7014
+LG19	39	40	GapFilledScaffold_846
+LG19	40	41	GapFilledScaffold_4277
+LG19	41	42	GapFilledScaffold_2318
+LG19	42	43	
+LG19	43	44	GapFilledScaffold_6
+LG19	44	45	GapFilledScaffold_166
+LG19	45	46	
+LG19	47	48	GapFilledScaffold_2327
+LG19	49	50	GapFilledScaffold_129
+LG19	51	52	GapFilledScaffold_1743
+LG19	55	56	GapFilledScaffold_1832
+LG19	57	58	GapFilledScaffold_703
+LG19	60	61	GapFilledScaffold_3376
+LG19	64	65	GapFilledScaffold_1993
+LG19	65	66	GapFilledScaffold_3455
+LG19	66	67	GapFilledScaffold_400
+LG19	67	68	GapFilledScaffold_400
+LG19	69	70	GapFilledScaffold_1249
+LG19	70	71	
+LG19	72	73	GapFilledScaffold_5826
+LG19	73	74	GapFilledScaffold_2248
+LG19	74	75	GapFilledScaffold_2248
+LG19	75	76	GapFilledScaffold_720
+LG19	76	77	GapFilledScaffold_720
+LG19	77	78	GapFilledScaffold_13937
+LG19	80	81	GapFilledScaffold_427
+LG19	81	82	GapFilledScaffold_3166
+LG19	83	84	GapFilledScaffold_4742
+LG19	84	85	GapFilledScaffold_3188
+LG19	86	87	GapFilledScaffold_584
+LG19	88	89	GapFilledScaffold_8083
+LG19	90	91	GapFilledScaffold_2754

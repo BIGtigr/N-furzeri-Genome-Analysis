@@ -3,8 +3,8 @@
 1. Downloaded the mouse and human aging genes from Genage (July 2014)
 2. The downloaded files are   
      
-   **human_genes.zip** **genage_human.csv** : human GenAge  
-   <**odels_genes.zip** **genage_models.csv** : Aging genes from all model organisms including mouse  
+   **human_genes.zip**	**genage_human.csv** : human GenAge  
+   **models_genes.zip**	**genage_models.csv** : Aging genes from all model organisms including mouse  
    
 3. Fou mouse, I filter to only get the mouse gaing genes where the longevity association is known.  
    **Filtered Mouse Genes.txt**

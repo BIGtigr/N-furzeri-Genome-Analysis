@@ -13,7 +13,7 @@
    **Human Aging Genes.txt**      
    
 5. I use slightly different versions of the same program to get the corresponding fish genes.  
-   Scripts: `[getOrthologIds_ForFishHuman.pl!](HumanAgingGenes/getOrthologIds_ForFishHuman.pl)`  
+   Scripts: [getOrthologIds_ForFishHuman.pl](HumanAgingGenes/getOrthologIds_ForFishHuman.pl)  
             `getOrthologIds_ForFishMouse.pl`
             
    Output:  **MouseAgingGeneList_ForFish.txt**  

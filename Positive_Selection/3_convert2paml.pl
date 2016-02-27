@@ -1,10 +1,20 @@
-# For codeml in PAML, the alignment format needed is phylip. So here
-# I convert the fasta alignment from GUIDANCE and PRANK into phylip format.
-#
+#---------------------------------------------------------------------------------------------------------------------+
+# Copyright: Param Priya Singh and Anne Brunet (2015)                                                                 |
+# Contact: param@stanford.edu                                                                                         |
+#                                                                                                                     |
+#  This script is a part of the analysis for manuscript, "The African turquoise killifish genome provides insights    |
+#  into evolution and genetic architecture of lifespan", by Valenzano, Benayoun, Singh & Brunet et al. Cell (2015).   |                                                |
+#                                                                                                                     |
+#  This is distributed under the GNU General Public License <http://www.gnu.org/licenses/>.                           |
+#---------------------------------------------------------------------------------------------------------------------+
+
+# For codeml in PAML, the alignment format needed is phylip. So this script is to convert the fasta alignment from 
+# GUIDANCE and PRANK into phylip format.
+
 use strict;
 use warnings;
 
-# Directory having all the alignments from GUIGDANCE --- either from MAFFT or PRANK
+# Directory having all the alignments from GUIGDANCE -- either from MAFFT or PRANK
 foreach (<alignments_prank/*>){
 
 	$_ =~/alignments_prank\/(.+)/g; # change here also for PRANK

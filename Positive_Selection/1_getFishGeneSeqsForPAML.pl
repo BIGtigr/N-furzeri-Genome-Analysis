@@ -1,13 +1,18 @@
-# This will read all the BBH files and the final filtered gene symbol files
-# and get the genes that are in our filtered list and that have a BBH with
-# at least 5 fish genomes. The output file has information about genes with 
-# at least 5 bbh in fishes
+#---------------------------------------------------------------------------------------------------------------------+
+# Copyright: Param Priya Singh and Anne Brunet (2015)                                                                 |
+# Contact: param@stanford.edu                                                                                         |
+#                                                                                                                     |
+#  This script is a part of the analysis for manuscript, "The African turquoise killifish genome provides insights    |
+#  into evolution and genetic architecture of lifespan", by Valenzano, Benayoun, Singh & Brunet et al. Cell (2015).   |                                                |
+#                                                                                                                     |
+#  This is distributed under the GNU General Public License <http://www.gnu.org/licenses/>.                           |
+#---------------------------------------------------------------------------------------------------------------------+
 #
-# It also gets the sequences for cds and proteins for all these genomes to be
-# used for alignment using GUIDANCE and PRANK on oldie. To get all the sequences
-# 
-# The sequenences for protein and cds are taken from the folders where all the 
-# sequences are, using the id in the BLAST-matrix.
+# This script will read all the Bidirectional best hits (BBH) files and the final filtered gene symbol files and get 
+# the genes that are in our filtered list and that have a BBH with at least 5 fish genomes. 
+# It also gets the sequences for cds and proteins for all these genomes to be used for alignment using GUIDANCE and PRANK
+# on our server. The sequenences for all the protein and cds are taken from the folders where all the sequences are, 
+# using the id in the BLAST-matrix file.
 # 
 
 use strict;
@@ -61,12 +66,6 @@ my %cds;
 readCDS();
 my %proteins;
 readProteins();
-
-# Test for printing
-#print $cds{'tnigroviridis'}{'ENSTNIP00000010267'},"\n";
-#print $proteins{'tnigroviridis'}{'ENSTNIP00000010267'},"\n";
-
-
 
 # print header in the gene list file
 print GL "Nfur-Symbol	Old-Nfur-Id	Total-Hits	BBH	Fish-with-BBH	Fish-with-no-BBH	Fish-with-no-hit\n";

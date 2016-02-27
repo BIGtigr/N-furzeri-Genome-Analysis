@@ -12,8 +12,8 @@
 4. For human it's the same list just pasted in text
    <Human Aging Genes.txt>      
    
-5. I use slightly different versions of the same program to get the corresponding fish genes.
-   Scripts: `getOrthologIds_ForFishHuman.pl`
+5. I use slightly different versions of the same program to get the corresponding fish genes.  
+   Scripts: `getOrthologIds_ForFishHuman.pl`  
             `getOrthologIds_ForFishMouse.pl`
             
    Output:  <MouseAgingGeneList_ForFish.txt>

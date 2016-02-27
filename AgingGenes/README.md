@@ -16,7 +16,7 @@
    Scripts:  [getOrthologIds_ForFishHuman.pl](HumanAgingGenes/getOrthologIds_ForFishHuman.pl)  
              [getOrthologIds_ForFishMouse.pl](MouseAgingGenes/getOrthologIds_ForFishMouse.pl)
             
-   Output:\s\s  **MouseAgingGeneList_ForFish.txt**  
+   Output:  **MouseAgingGeneList_ForFish.txt**  
             **HumanAgingGeneList_ForFish.txt**  
             The output files have fish id, mouse/human symbol, longevity (for mouse) and humsn/mouse id
             

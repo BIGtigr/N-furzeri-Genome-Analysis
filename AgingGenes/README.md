@@ -1,4 +1,4 @@
-## Process mouse and human data from LongevityMap
+### Process mouse and human data from LongevityMap
 
 1. Downloaded the mouse and human aging genes from Genage (July 2014)
 2. The downloaded files are   
@@ -16,15 +16,14 @@
    Scripts: `getOrthologIds_ForFishHuman.pl`  
             `getOrthologIds_ForFishMouse.pl`
             
-   Output:  **MouseAgingGeneList_ForFish.txt**
+   Output:  **MouseAgingGeneList_ForFish.txt**  
             **HumanAgingGeneList_ForFish.txt**
-            
             The output files have fish id, mouse/human symbol, longevity (for mouse) and humsn/mouse id
             
     _These files are used to overlap the positive selected genes from Fish_
     
 
-## Process LongevityMap
+### Process LongevityMap
 
 1. Downloaded the longevity map 20150722 : In folder **LongevityMap**  
      

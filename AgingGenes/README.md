@@ -17,7 +17,7 @@
             `getOrthologIds_ForFishMouse.pl`
             
    Output:  **MouseAgingGeneList_ForFish.txt**  
-            **HumanAgingGeneList_ForFish.txt**
+            **HumanAgingGeneList_ForFish.txt**  
             The output files have fish id, mouse/human symbol, longevity (for mouse) and humsn/mouse id
             
     _These files are used to overlap the positive selected genes from Fish_

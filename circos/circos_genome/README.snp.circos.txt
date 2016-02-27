@@ -1,4 +1,4 @@
-To plot the SNPs from the 3 strains on circos
+To plot the SNPs from the 3 strains on circos:
 
 1. *getSNPs_20150730.pl* reads the GATK files and calculates the number of snps on each scaffold in a 
    window of 20kb. I run it one by one for each of the three strains. 
